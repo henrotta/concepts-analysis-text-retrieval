@@ -1,9 +1,9 @@
-Concept,Présent dans HEURISTIQUE,Présent dans TEXT_RETRIEVAL,Fichiers uniquement dans HEURISTIQUE,Fichiers uniquement dans TEXT_RETRIEVAL
+Concept,Present in HEURISTIC,Present in TEXT_RETRIEVAL,Files only in HEURISTIC,Files only in TEXT_RETRIEVAL
 access,True,True,None,None
-add,True,True,None,web/static/js/auto-complete.js;web/static/js/controller.js
+add,True,True,None,web/static/js/controller.js;web/static/js/auto-complete.js
 allow,True,True,None,None
 cart,True,True,None,web/static/js/controller.js
-category,True,True,None,mongo/catalogue.js;web/static/js/controller.js
+category,True,True,None,web/static/js/controller.js;mongo/catalogue.js
 check,True,True,None,web/static/js/controller.js;cart/server.js
 content,True,True,None,web/static/js/controller.js
 control,True,True,None,mongo/catalogue.js
@@ -13,9 +13,9 @@ login,True,True,None,web/static/js/controller.js;cart/server.js
 metric,True,True,None,None
 order,True,True,None,web/static/js/controller.js
 origin,True,True,None,None
-product,True,True,None,web/static/js/controller.js;cart/server.js;mongo/users.js
+product,True,True,None,mongo/users.js;web/static/js/controller.js;cart/server.js
 register,True,True,None,web/static/js/controller.js;cart/server.js
-search,True,True,None,mongo/catalogue.js;web/static/js/auto-complete.js;web/static/js/controller.js
+search,True,True,None,web/static/js/controller.js;mongo/catalogue.js;web/static/js/auto-complete.js
 uniqueid,True,True,user/server.js,web/static/js/controller.js
 update,True,True,None,web/static/js/auto-complete.js
 user,True,True,None,web/static/js/controller.js

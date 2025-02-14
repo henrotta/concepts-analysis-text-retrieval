@@ -96,12 +96,12 @@ def generate_matrix(json1, json2, focus_on_json1=False):
     Generates a CSV matrix mapping files to concepts based on two JSON sources.
     If focus_on_json1 == True, only concepts from json1 are considered.
     """
-    # Récupérer tous les concepts et fichiers uniques
+    # Retrieve all unique concepts and files
     keys_file1, keys_file2 = set(json1.keys()), set(json2.keys())
     all_files = {file for key in keys_file1 for file in json1[key]} | \
                 {file for key in keys_file2 for file in json2[key]}
 
-    # Construire le mapping fichiers → concepts
+    # Build the file → concept mapping
     concept_mapping = {}
     for file in all_files:
         normalized_file = normalize_path(file)
@@ -110,17 +110,17 @@ def generate_matrix(json1, json2, focus_on_json1=False):
             {key for key in keys_file2 if file in json2[key]}
         )
 
-    # Déterminer les concepts à inclure dans la matrice
+    # Determine the concepts to include in the matrix
     all_concepts = sorted(keys_file1 if focus_on_json1 else keys_file1 | keys_file2)
 
-    # Normaliser les fichiers issus de json1 pour repérer les fichiers liés à la DB
+    # Normalize files from json1 to identify database-related files
     files_of_json1 = {normalize_path(file) for key in keys_file1 for file in json1[key]}
     filename = f"./results_matrix/{PROJECT_TO_ANALYZE}.csv"
 
-    # Génération du CSV
+    # Generate the CSV file
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(["Fichier", "is_db_file", "is_not_db_file"] + all_concepts)
+        writer.writerow(["File", "is_db_file", "is_not_db_file"] + all_concepts)
 
         for file_name, concepts in concept_mapping.items():
             is_db_file = file_name in files_of_json1

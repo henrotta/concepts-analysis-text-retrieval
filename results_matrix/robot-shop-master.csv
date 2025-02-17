@@ -1,8 +1,8 @@
-Fichier,is_db_file,is_not_db_file,access,add,allow,cart,category,check,content,control,health,history,login,metric,order,origin,product,register,rename,search,shipping,timing,type,uniqueid,update,user
-db|user/server.js,True,False,True,False,True,False,False,True,False,True,True,True,True,False,True,True,False,True,False,False,False,True,False,True,False,True
-db|catalogue/server.js,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False,True,True,False,False,True,False,True,False,False,False,False
-db|cart/server.js,True,False,True,True,True,True,False,True,True,True,True,False,True,True,False,True,True,True,True,False,True,True,True,False,True,False
+File,is_db_file,is_not_db_file,access,add,allow,cart,category,check,content,control,health,history,login,metric,order,origin,product,register,rename,search,shipping,timing,type,uniqueid,update,user
 db|mongo/catalogue.js,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False
-db|mongo/users.js,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+db|user/server.js,True,False,True,False,True,False,False,True,False,True,True,True,True,False,True,True,False,True,False,False,False,True,False,True,False,True
+db|cart/server.js,True,False,True,True,True,True,False,True,True,True,True,False,True,True,False,True,True,True,True,False,True,True,True,False,True,False
+db|catalogue/server.js,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False,True,True,False,False,True,False,True,False,False,False,False
 web/static/js/controller.js,False,True,False,True,False,True,True,True,True,False,False,True,True,False,True,False,True,True,False,True,False,False,False,True,False,True
+db|mongo/users.js,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True
 web/static/js/auto-complete.js,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False

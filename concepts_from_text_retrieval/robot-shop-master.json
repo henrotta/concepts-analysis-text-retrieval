@@ -1,756 +1,678 @@
 {
-  "event": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "load": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "id": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "class": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "handler": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "offset": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "top": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "route": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "element": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "mongo": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "select": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "remove": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "product": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+  "unique": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "air": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "style": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "client": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+  "fresh": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "node": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "item": [
+  "collector": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "apply": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "right": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "cost": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "res": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "annotate": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "strict": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "add": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "category": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "connect": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  "slice": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
   "level": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "span": [
+  "character": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "place": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "params": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "err": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "sel": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "fragment": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "hack": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "floor": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "listener": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "collection": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "uniqueid": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "less": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "us": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "exceptional": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "record": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
   ],
   "create": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "body": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "exp": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "location": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "cart": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "use": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "val": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "template": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "disable": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "object": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "quantity": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "red": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "match": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "search": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "db": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
+  "result": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
   ],
-  "user": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+  "prom": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "tunnel": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "adapter": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "click": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "el": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "normal": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
   "host": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "join": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "define": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "helper": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "slow": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "cart": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "spaceship": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "blur": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "message": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "country": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "undefined": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "destroy": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "extreme": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
   "ship": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "collection": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  "observability": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "history": [
+  "git": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "login": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "fellow": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "current": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "last": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "selector": [
+  "meta": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "warn": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "protocol": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "hub": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "length": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "high": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "old": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "round": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "share": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "rat": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
   "attribute": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "style": [
+  "move": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "term": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "auto": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+  "mine": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "fast": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "display": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "splash": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "calc": [
+  "bottom": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "field": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "menu": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "help": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "text": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "description": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "address": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "replace": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "logger": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "input": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "order": [
+  "zero": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "stock": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "off": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "robotic": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "client": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "price": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
   "next": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "current": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+  "one": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "cat": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "detach": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "load": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "leave": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "height": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "child": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "change": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "rat": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "country": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "text": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "rate": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "control": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "start": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "set": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "timeout": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "status": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "list": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "loop": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "code": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "category": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "sibling": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+  "index": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "none": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "complete": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+  "mineral": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "across": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "length": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+  "listen": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "feedback": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "not": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+  "harvest": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "keyup": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "track": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "content": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "harvester": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "scr": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "custom": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
   "parse": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "diplomatic": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "mongo": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "manner": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "outside": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "total": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+  "active": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "debug": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "module": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "result": [
+  "anything": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "success": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "assistant": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "attach": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "provider": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
   "document": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "suggestion": [
+  "delay": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "select": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "last": [
+  "math": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "exp": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "route": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "responsive": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "max": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "emulator": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "val": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "page": [
+  "detail": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "connection": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "little": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "allow": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "guru": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "not": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "tag": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "development": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "cache": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+  "plain": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "button": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "render": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+  "random": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "template": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "new": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "re": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "distinct": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "enable": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "total": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "extraterrestrial": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "tax": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "enforcer": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "check": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "time": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "variant": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "surgery": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "handy": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "code": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "incorrect": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "vote": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "send": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "url": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "probably": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "console": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "find": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "password": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
+  ],
+  "log": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "bedside": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "leave": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "ultimate": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "inner": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
   "clear": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "anything": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "res": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "control": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "math": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "datum": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+  "search": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "log": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "error": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "find": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "undefined": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "no": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "collector": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "trace": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "enable": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "parser": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "express": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "pino": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "register": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "process": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "pretty": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "print": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "label": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "logger": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "time": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "allow": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "origin": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "access": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "us": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "annotate": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "custom": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "tag": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "floor": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "random": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "extend": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "health": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "stat": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "send": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "login": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "check": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "detail": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "thank": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "price": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "post": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "fire": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "port": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "listen": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "down": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "unique": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "password": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "email": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "prom": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "redis": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "save": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "tax": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "query": [
+  "height": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "el": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "listener": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "scroll": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "width": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "blur": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "focus": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "key": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "previous": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "provider": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "url": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "scope": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "old": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "message": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "rate": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "confirm": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "request": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "counter": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "run": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "content": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "err": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "qty": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "quantity": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "int": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "warn": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "number": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "already": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
   ],
   "exist": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "work": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "push": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "update": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "ready": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "array": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "database": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "available": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "delay": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "description": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+  "sibling": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "need": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "index": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
-  ],
-  "com": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "anonymous": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "strict": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "source": [
+  "auto": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
@@ -758,315 +680,392 @@
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "term": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "outer": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "window": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "input": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "suggest": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "empty": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "method": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "module": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "registry": [
+  "negative": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "help": [
+  "use": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "qty": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "catalogue": [
+  "medical": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "no": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "pay": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "string": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "metric": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  "health": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "header": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  "ng": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "plain": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  "key": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
   "application": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "na": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "less": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "one": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "greater": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "zero": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "look": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "stock": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "subtotal": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "merge": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
   "inc": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "negative": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "splice": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "distance": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "cost": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "miss": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "string": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
-  ],
-  "optionally": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "slow": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "cat": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "distinct": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "hit": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "connection": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "retry": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
-  ],
-  "probably": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "smartest": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "planet": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "artificial": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "intelligence": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "fully": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "sentient": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "assistant": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "high": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "power": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "travel": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "far": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "reach": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "galaxy": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "protection": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "handy": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "lose": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "space": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "robot": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "ultimate": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "harvest": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "juggernaut": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "extraterrestrial": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "vegetation": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "harvester": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "extreme": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "probe": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "emulator": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "versatile": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "adapter": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "hack": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "system": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "exceptional": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "medical": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
   "machine": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "automatic": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "container": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "surgery": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "offset": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "bedside": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "payment": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "manner": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "page": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "strategic": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "final": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "human": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "split": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "diplomatic": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "error": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "protocol": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "child": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "red": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "update": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "responsive": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "enforcer": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "security": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "will": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "robotic": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "mine": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "cyborg": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "excellent": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "tunnel": [
+  "intelligence": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
   "capability": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "rare": [
+  "element": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "redis": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "item": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "query": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "target": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "artificial": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "mineral": [
+  "human": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "observability": [
+  "subtotal": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "protection": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "guru": [
+  "galaxy": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "access": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "order": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "history": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
   ],
   "neutralization": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
+  "redirect": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "append": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "security": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "cyborg": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "object": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "supply": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "stat": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "push": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "empty": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "excellent": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "body": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "keydown": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "hover": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "may": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "sc": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "span": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "extend": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "script": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "calc": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "window": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "resize": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "sentient": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "partner": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
+  ],
+  "user": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
+  ],
+  "suggestion": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "generate": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "save": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "array": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "greater": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "reach": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "work": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "system": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "port": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "db": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "factory": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "pino": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "hash": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "license": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "lose": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "fully": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "space": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "suggest": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
   "android": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "spaceship": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "metric": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "bite": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "selector": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "little": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "origin": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "fellow": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  "context": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "score": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "compute": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "set": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "production": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "splice": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "scope": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "header": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "optionally": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "post": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "trim": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "insufficient": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "run": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "contain": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "loop": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "product": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "put": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "etc": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "process": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "merge": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "focus": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
   "bring": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
@@ -1074,418 +1073,419 @@
   "breath": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "fresh": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "air": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "full": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
-  ],
-  "partner": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
-  ],
-  "howdy": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
-  ],
-  "track": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "debug": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "supply": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "incorrect": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "validate": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "address": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "format": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "insufficient": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "insert": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "record": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
-  ],
-  "java": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "script": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "copyright": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "git": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "hub": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "license": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "option": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "helper": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "contain": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "reg": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "test": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "attach": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "detach": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "live": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "context": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "target": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "src": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
   "parent": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "call": [
+  "controller": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "source": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "equal": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "top": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "min": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  "parser": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
-  "char": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  "versatile": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "menu": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "escape": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "special": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "character": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "replace": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "re": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "split": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "join": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "property": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "container": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "off": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "sc": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "resize": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "bound": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "rect": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "round": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "bottom": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "right": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "outer": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "display": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "block": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "max": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "compute": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "scr": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "sel": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "append": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "outside": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "click": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  "label": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
   "value": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "none": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  "register": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "full": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "power": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "juggernaut": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "anonymous": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "smartest": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "retry": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "confirmation": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "will": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "vegetation": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "down": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
   "sb": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "hover": [
+  "method": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "fire": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "reg": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "hide": [
+  "later": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "previous": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "fast": [
+  "howdy": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
+  ],
+  "cont": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "complete": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "id": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "width": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "active": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  "datum": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
-  "inner": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "html": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "keydown": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "node": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "first": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "enter": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "keyup": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "timer": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "part": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "slice": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "destroy": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
-  ],
-  "define": [
+  "block": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
   "export": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "angular": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "format": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
   ],
-  "ng": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "timer": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
   ],
-  "share": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "controller": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "factory": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "splash": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "payment": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "otherwise": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "redirect": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "rewrite": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "hash": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "fragment": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "development": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "later": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "root": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "view": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "console": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "may": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "success": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "etc": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "uniqueid": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "generate": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "meta": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "environment": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "production": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "variant": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "normal": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "new": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "params": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "pretty": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
   ],
   "avg": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "score": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "put": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "thank": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "feedback": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "vote": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "opacity": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "fetch": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
   "buy": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "city": [
+  "automatic": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "probe": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "already": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "cache": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "go": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "robot": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
   ],
-  "final": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "confirmation": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "match": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "apply": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "button": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "cont": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "pay": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "place": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "across": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
-  ],
-  "move": [
-    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  "list": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ],
   "yet": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "trim": [
+  "confirm": [
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "field": [
+  "int": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "catalogue": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "copyright": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "print": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "start": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "rect": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "render": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
   ],
-  "equal": [
+  "part": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "event": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
     "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "registry": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "connect": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "far": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "status": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "add": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "hide": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "min": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "escape": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "email": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
+  ],
+  "available": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "na": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "rare": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "location": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "bite": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "validate": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "live": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "database": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "special": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "property": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "root": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "opacity": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "miss": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "bound": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "counter": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "rewrite": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "insert": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js"
+  ],
+  "char": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "call": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "first": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "disable": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "enter": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "city": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "class": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "hit": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "fetch": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "java": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "trace": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "src": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "go": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "angular": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "strategic": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "environment": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "scroll": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "remove": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "change": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "express": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "otherwise": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "ready": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "handler": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "timeout": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js"
+  ],
+  "distance": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "test": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "need": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "view": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js"
+  ],
+  "com": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js"
+  ],
+  "request": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "planet": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "travel": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js"
+  ],
+  "html": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "option": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js"
+  ],
+  "look": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
+  ],
+  "number": [
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+    "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js"
   ]
 }

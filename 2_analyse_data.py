@@ -12,8 +12,8 @@ from copy import deepcopy
 
 
 # Define the project to analyze (uncomment the desired project)
-# PROJECT_TO_ANALYZE = "robot-shop-master"
-PROJECT_TO_ANALYZE = "cinema-microservice-master"
+PROJECT_TO_ANALYZE = "robot-shop-master"
+# PROJECT_TO_ANALYZE = "cinema-microservice-master"
 # PROJECT_TO_ANALYZE = "overleaf-main"
 
 
@@ -169,7 +169,7 @@ def generate_FCA():
     fig, ax = plt.subplots(figsize=(15, 7))
     viz.draw_concept_lattice(lattice_no_trivial, ax=ax, flg_drop_bottom_concept=True, node_color=node_colors, node_color_legend=node_color_legend, node_label_func=node_label)
     plt.legend(title='Color coding', fontsize=10, loc='upper right')
-    plt.title('"Concept location lattice"', size=24)
+    plt.title(f'"Concept location lattice ({PROJECT_TO_ANALYZE})"', size=24)
     plt.tight_layout()
     plt.show()
 

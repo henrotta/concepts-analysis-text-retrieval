@@ -1,0 +1,13 @@
+{
+    "PROJECTS": [
+        "robot-shop-master",
+        "cinema-microservice-master",
+        "overleaf-main"
+    ],
+    "PROJECTS_TO_GENERATE": [
+        "cinema-microservice-master"
+    ],
+    "PROJECT_TO_ANALYZE": "cinema-microservice-master",
+    "KEEP_DB_CONCEPTS_ONLY_FROM_HEURISTICS": true,
+    "FOCUS_ON_HEURISTIC_CONCEPTS": true
+}

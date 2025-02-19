@@ -1,103 +1,115 @@
 {
-  "add": [
-    "robot-shop-master/cart/server.js#L139C1-L210C2"
-  ],
-  "cart": [
-    "robot-shop-master/cart/server.js#L101C1-L114C2",
-    "robot-shop-master/cart/server.js#L84C1-L98C2"
-  ],
-  "content": [
-    "robot-shop-master/cart/server.js#L93C17-L93C59"
-  ],
-  "product": [
-    "robot-shop-master/catalogue/server.js#L106C1-L122C2",
-    "robot-shop-master/catalogue/server.js#L82C1-L103C2",
-    "robot-shop-master/mongo/catalogue.js#L20C1-L23C2",
-    "robot-shop-master/mongo/catalogue.js#L26C1-L29C1",
-    "robot-shop-master/catalogue/server.js#L163C30-L163C54",
-    "robot-shop-master/catalogue/server.js#L67C1-L79C2",
-    "robot-shop-master/mongo/catalogue.js#L5C1-L17C2"
-  ],
-  "update": [
-    "robot-shop-master/cart/server.js#L213C1-L266C2"
-  ],
-  "register": [
-    "robot-shop-master/user/server.js#L148C1-L181C2"
-  ],
-  "shipping": [
-    "robot-shop-master/cart/server.js#L269C1-L322C2"
-  ],
-  "uniqueid": [
-    "robot-shop-master/user/server.js#L70C1-L82C2"
-  ],
-  "metric": [
-    "robot-shop-master/cart/server.js#L77C1-L80C2"
-  ],
-  "check": [
-    "robot-shop-master/user/server.js#L85C1-L101C2"
-  ],
-  "category": [
-    "robot-shop-master/catalogue/server.js#L125C1-L137C2"
-  ],
-  "origin": [
-    "robot-shop-master/catalogue/server.js#L36C5-L36C39",
-    "robot-shop-master/user/server.js#L40C5-L40C47",
-    "robot-shop-master/cart/server.js#L46C5-L46C39",
-    "robot-shop-master/user/server.js#L39C5-L39C39",
-    "robot-shop-master/cart/server.js#L47C5-L47C47",
-    "robot-shop-master/catalogue/server.js#L37C5-L37C47"
-  ],
   "timing": [
-    "robot-shop-master/cart/server.js#L46C5-L46C39",
-    "robot-shop-master/user/server.js#L39C5-L39C39",
-    "robot-shop-master/catalogue/server.js#L36C5-L36C39"
-  ],
-  "health": [
-    "robot-shop-master/user/server.js#L61C1-L67C2",
-    "robot-shop-master/catalogue/server.js#L58C1-L64C2",
-    "robot-shop-master/cart/server.js#L68C1-L74C2"
-  ],
-  "user": [
-    "robot-shop-master/mongo/users.js#L12C1-L15C1",
-    "robot-shop-master/mongo/users.js#L5C1-L9C2",
-    "robot-shop-master/user/server.js#L278C35-L278C56",
-    "robot-shop-master/user/server.js#L104C1-L116C2"
-  ],
-  "control": [
-    "robot-shop-master/user/server.js#L40C5-L40C47",
-    "robot-shop-master/catalogue/server.js#L37C5-L37C47",
-    "robot-shop-master/cart/server.js#L47C5-L47C47"
-  ],
-  "access": [
-    "robot-shop-master/user/server.js#L40C5-L40C47",
-    "robot-shop-master/catalogue/server.js#L37C5-L37C47",
-    "robot-shop-master/cart/server.js#L47C5-L47C47"
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L46C5-L46C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L36C5-L36C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L39C5-L39C39"
+    }
   ],
   "allow": [
-    "robot-shop-master/catalogue/server.js#L36C5-L36C39",
-    "robot-shop-master/user/server.js#L40C5-L40C47",
-    "robot-shop-master/cart/server.js#L46C5-L46C39",
-    "robot-shop-master/user/server.js#L39C5-L39C39",
-    "robot-shop-master/cart/server.js#L47C5-L47C47",
-    "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L46C5-L46C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L36C5-L36C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L39C5-L39C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+    }
   ],
-  "order": [
-    "robot-shop-master/user/server.js#L279C36-L279C58",
-    "robot-shop-master/user/server.js#L183C1-L235C2"
+  "origin": [
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L46C5-L46C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L36C5-L36C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L39C5-L39C39"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+    }
   ],
-  "history": [
-    "robot-shop-master/user/server.js#L237C1-L255C2"
+  "access": [
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+    }
+  ],
+  "control": [
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+    },
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+    }
+  ],
+  "content": [
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L93C17-L93C59"
+    }
   ],
   "type": [
-    "robot-shop-master/cart/server.js#L93C17-L93C59"
+    {
+      "sourceFile": "robot-shop-master/cart/server.js#L93C17-L93C59"
+    }
   ],
-  "login": [
-    "robot-shop-master/user/server.js#L118C1-L145C2"
+  "product": [
+    {
+      "sourceFile": "robot-shop-master/catalogue/server.js#L163C30-L163C54"
+    },
+    {
+      "sourceFile": "robot-shop-master/mongo/catalogue.js#L5C1-L17C2"
+    },
+    {
+      "sourceFile": "robot-shop-master/mongo/catalogue.js#L20C1-L23C2"
+    },
+    {
+      "sourceFile": "robot-shop-master/mongo/catalogue.js#L26C1-L29C1"
+    }
   ],
-  "rename": [
-    "robot-shop-master/cart/server.js#L117C1-L136C2"
+  "user": [
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L278C35-L278C56"
+    },
+    {
+      "sourceFile": "robot-shop-master/mongo/users.js#L5C1-L9C2"
+    },
+    {
+      "sourceFile": "robot-shop-master/mongo/users.js#L12C1-L15C1"
+    }
   ],
-  "search": [
-    "robot-shop-master/catalogue/server.js#L140C1-L152C2"
+  "order": [
+    {
+      "sourceFile": "robot-shop-master/user/server.js#L279C36-L279C58"
+    }
   ]
 }

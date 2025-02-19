@@ -1,126 +1,39 @@
 {
-  "cinema": [
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L99C5-L100C46",
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L118C5-L119C49",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L21C5-L21C50",
-    "cinema-microservice-master/cinema-catalog-service/src/repository/repository.js#L35C7-L35C30",
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.js#L23C3-L33C4",
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L109C5-L110C45",
-    "cinema-microservice-master/cinema-catalog-service/integration-test/index.js#L7C5-L7C50",
-    "cinema-microservice-master/cinema-catalog-service/src/repository/repository.js#L11C22-L11C45",
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.js#L7C3-L13C4",
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.js#L15C3-L21C4",
-    "cinema-microservice-master/cinema-catalog-service/src/repository/repository.js#L73C7-L73C30"
-  ],
-  "notification": [
-    "cinema-microservice-master/notification-service/src/api/notification.js#L18C3-L29C4",
-    "cinema-microservice-master/notification-service/integration-test/index.js#L29C5-L29C39",
-    "cinema-microservice-master/notification-service/src/api/notification.js#L5C3-L16C4",
-    "cinema-microservice-master/booking-service/src/services/notification.service.js#L7C5-L8C38",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L114C5-L114C39",
-    "cinema-microservice-master/notification-service/src/api/notification.spec.js#L114C5-L115C38"
-  ],
-  "movie": [
-    "cinema-microservice-master/movies-service/src/repository/repository.js#L4C22-L4C44",
-    "cinema-microservice-master/movies-service/src/api/movies.js#L7C3-L11C4",
-    "cinema-microservice-master/movies-service/src/api/movies.spec.js#L89C5-L90C23",
-    "cinema-microservice-master/movies-service/src/api/movies.js#L13C3-L17C4",
-    "cinema-microservice-master/movies-service/src/api/movies.spec.js#L73C5-L74C29",
-    "cinema-microservice-master/movies-service/src/api/movies.js#L19C3-L23C4",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L12C5-L12C32",
-    "cinema-microservice-master/movies-service/src/api/movies.spec.js#L57C5-L58C21",
-    "cinema-microservice-master/movies-service/integration-test/index.js#L7C5-L7C32"
-  ],
   "booking": [
-    "cinema-microservice-master/booking-service/src/repository/repository.js#L23C7-L23C30",
-    "cinema-microservice-master/booking-service/src/repository/repository.js#L54C7-L54C30",
-    "cinema-microservice-master/booking-service/src/api/booking.js#L56C3-L62C4",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L59C5-L59C24",
-    "cinema-microservice-master/booking-service/integration-test/index.js#L34C5-L34C24",
-    "cinema-microservice-master/booking-service/src/api/booking.spec.js#L88C5-L89C23",
-    "cinema-microservice-master/booking-service/src/api/booking.js#L5C3-L54C4"
-  ],
-  "email": [
-    "cinema-microservice-master/notification-service/integration-test/index.js#L29C5-L29C39",
-    "cinema-microservice-master/notification-service/src/api/notification.js#L5C3-L16C4",
-    "cinema-microservice-master/booking-service/src/services/notification.service.js#L7C5-L8C38",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L114C5-L114C39",
-    "cinema-microservice-master/notification-service/src/api/notification.spec.js#L114C5-L115C38"
-  ],
-  "make": [
-    "cinema-microservice-master/booking-service/src/services/payment.service.js#L7C5-L8C36",
-    "cinema-microservice-master/payment-service/integration-test/index.js#L21C5-L21C37",
-    "cinema-microservice-master/payment-service/src/api/payment.js#L5C3-L16C4",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L83C5-L83C37",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L96C5-L97C36"
-  ],
-  "by": [
-    "cinema-microservice-master/payment-service/src/api/payment.js#L18C3-L24C4",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L107C5-L108C56"
-  ],
-  "sms": [
-    "cinema-microservice-master/notification-service/src/api/notification.js#L18C3-L29C4"
-  ],
-  "get": [
-    "cinema-microservice-master/payment-service/src/api/payment.js#L18C3-L24C4",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L107C5-L108C56"
-  ],
-  "588": [
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L118C5-L119C49",
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L109C5-L110C45",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L21C5-L21C50",
-    "cinema-microservice-master/cinema-catalog-service/integration-test/index.js#L7C5-L7C50"
+    {
+      "sourceFile": "cinema-microservice-master/booking-service/src/repository/repository.js#L23C7-L23C30"
+    },
+    {
+      "sourceFile": "cinema-microservice-master/booking-service/src/repository/repository.js#L54C7-L54C30"
+    }
   ],
   "ticket": [
-    "cinema-microservice-master/booking-service/src/repository/repository.js#L35C7-L35C30"
+    {
+      "sourceFile": "cinema-microservice-master/booking-service/src/repository/repository.js#L35C7-L35C30"
+    }
   ],
-  "send": [
-    "cinema-microservice-master/notification-service/src/api/notification.js#L18C3-L29C4",
-    "cinema-microservice-master/notification-service/integration-test/index.js#L29C5-L29C39",
-    "cinema-microservice-master/notification-service/src/api/notification.js#L5C3-L16C4",
-    "cinema-microservice-master/booking-service/src/services/notification.service.js#L7C5-L8C38",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L114C5-L114C39",
-    "cinema-microservice-master/notification-service/src/api/notification.spec.js#L114C5-L115C38"
+  "cinema": [
+    {
+      "sourceFile": "cinema-microservice-master/cinema-catalog-service/src/repository/repository.js#L11C22-L11C45"
+    },
+    {
+      "sourceFile": "cinema-microservice-master/cinema-catalog-service/src/repository/repository.js#L35C7-L35C30"
+    },
+    {
+      "sourceFile": "cinema-microservice-master/cinema-catalog-service/src/repository/repository.js#L73C7-L73C30"
+    }
   ],
-  "ac3a02d029a6d15d0b5c4": [
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L109C5-L110C45"
-  ],
-  "verify": [
-    "cinema-microservice-master/booking-service/src/api/booking.js#L56C3-L62C4"
-  ],
-  "purchase": [
-    "cinema-microservice-master/booking-service/src/services/payment.service.js#L7C5-L8C36",
-    "cinema-microservice-master/payment-service/integration-test/index.js#L21C5-L21C37",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L107C5-L108C56",
-    "cinema-microservice-master/payment-service/src/api/payment.js#L5C3-L16C4",
-    "cinema-microservice-master/payment-service/src/api/payment.js#L18C3-L24C4",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L83C5-L83C37",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L96C5-L97C36"
+  "movie": [
+    {
+      "sourceFile": "cinema-microservice-master/movies-service/src/repository/repository.js#L4C22-L4C44"
+    }
   ],
   "payment": [
-    "cinema-microservice-master/booking-service/src/services/payment.service.js#L7C5-L8C36",
-    "cinema-microservice-master/payment-service/integration-test/index.js#L21C5-L21C37",
-    "cinema-microservice-master/payment-service/src/repository/repository.js#L33C11-L33C35",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L107C5-L108C56",
-    "cinema-microservice-master/payment-service/src/api/payment.js#L5C3-L16C4",
-    "cinema-microservice-master/payment-service/src/api/payment.js#L18C3-L24C4",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L83C5-L83C37",
-    "cinema-microservice-master/payment-service/src/repository/repository.js#L52C7-L52C31",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L96C5-L97C36"
-  ],
-  "id": [
-    "cinema-microservice-master/payment-service/src/api/payment.js#L18C3-L24C4",
-    "cinema-microservice-master/payment-service/src/api/payment.spec.js#L107C5-L108C56"
-  ],
-  "ababf2d029a6d15d0b5bf": [
-    "cinema-microservice-master/cinema-catalog-service/src/api/cinema-catalog.spec.js#L118C5-L119C49",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L21C5-L21C50",
-    "cinema-microservice-master/cinema-catalog-service/integration-test/index.js#L7C5-L7C50"
-  ],
-  "premiere": [
-    "cinema-microservice-master/movies-service/src/api/movies.js#L13C3-L17C4",
-    "cinema-microservice-master/api-gateway/integration-test/index.js#L12C5-L12C32",
-    "cinema-microservice-master/movies-service/src/api/movies.spec.js#L73C5-L74C29",
-    "cinema-microservice-master/movies-service/integration-test/index.js#L7C5-L7C32"
+    {
+      "sourceFile": "cinema-microservice-master/payment-service/src/repository/repository.js#L33C11-L33C35"
+    },
+    {
+      "sourceFile": "cinema-microservice-master/payment-service/src/repository/repository.js#L52C7-L52C31"
+    }
   ]
 }

@@ -1,1 +1,3438 @@
-[[{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"host","score":6.4},{"concept":"prom","score":5.45},{"concept":"redis","score":5.45},{"concept":"save","score":5.45},{"concept":"tax","score":5.45},{"concept":"client","score":4.5},{"concept":"cart","score":4.27},{"concept":"parse","score":4.27},{"concept":"total","score":4.27},{"concept":"calc","score":4.27},{"concept":"item","score":3.53},{"concept":"add","score":3.53},{"concept":"connect","score":3.53},{"concept":"level","score":3.53},{"concept":"span","score":3.53},{"concept":"status","score":3.53},{"concept":"create","score":3.53},{"concept":"list","score":3.53},{"concept":"body","score":3},{"concept":"exp","score":3},{"concept":"registry","score":2.72},{"concept":"help","score":2.72},{"concept":"catalogue","score":2.72},{"concept":"metric","score":2.72},{"concept":"header","score":2.72},{"concept":"plain","score":2.72},{"concept":"application","score":2.72},{"concept":"na","score":2.72},{"concept":"less","score":2.72},{"concept":"one","score":2.72},{"concept":"greater","score":2.72},{"concept":"zero","score":2.72},{"concept":"look","score":2.72},{"concept":"stock","score":2.72},{"concept":"subtotal","score":2.72},{"concept":"merge","score":2.72},{"concept":"inc","score":2.72},{"concept":"negative","score":2.72},{"concept":"splice","score":2.72},{"concept":"distance","score":2.72},{"concept":"cost","score":2.72},{"concept":"miss","score":2.72},{"concept":"string","score":2.72},{"concept":"use","score":2.58},{"concept":"product","score":2.58},{"concept":"request","score":2.13},{"concept":"counter","score":2.13},{"concept":"run","score":2.13},{"concept":"content","score":2.13},{"concept":"err","score":2.13},{"concept":"qty","score":2.13},{"concept":"quantity","score":2.13},{"concept":"int","score":2.13},{"concept":"warn","score":2.13},{"concept":"number","score":2.13},{"concept":"already","score":2.13},{"concept":"exist","score":2.13},{"concept":"work","score":2.13},{"concept":"ship","score":2.13},{"concept":"location","score":2.13},{"concept":"push","score":2.13},{"concept":"update","score":2.13},{"concept":"ready","score":2.13},{"concept":"collector","score":1.77},{"concept":"trace","score":1.77},{"concept":"enable","score":1.77},{"concept":"parser","score":1.77},{"concept":"express","score":1.77},{"concept":"pino","score":1.77},{"concept":"register","score":1.77},{"concept":"process","score":1.77},{"concept":"pretty","score":1.77},{"concept":"print","score":1.77},{"concept":"label","score":1.77},{"concept":"logger","score":1.77},{"concept":"time","score":1.77},{"concept":"allow","score":1.77},{"concept":"origin","score":1.77},{"concept":"access","score":1.77},{"concept":"us","score":1.77},{"concept":"annotate","score":1.77},{"concept":"custom","score":1.77},{"concept":"tag","score":1.77},{"concept":"floor","score":1.77},{"concept":"random","score":1.77},{"concept":"extend","score":1.77},{"concept":"health","score":1.77},{"concept":"stat","score":1.77},{"concept":"send","score":1.77},{"concept":"login","score":1.77},{"concept":"check","score":1.77},{"concept":"detail","score":1.77},{"concept":"price","score":1.77},{"concept":"remove","score":1.77},{"concept":"post","score":1.77},{"concept":"loop","score":1.77},{"concept":"code","score":1.77},{"concept":"fire","score":1.77},{"concept":"port","score":1.77},{"concept":"listen","score":1.77},{"concept":"load","score":1.5},{"concept":"anything","score":1.5},{"concept":"res","score":1.5},{"concept":"control","score":1.5},{"concept":"math","score":1.5},{"concept":"text","score":1.5},{"concept":"id","score":1.5},{"concept":"datum","score":1.5},{"concept":"log","score":1.5},{"concept":"error","score":1.5},{"concept":"find","score":1.5},{"concept":"undefined","score":1.5},{"concept":"no","score":1.5},{"concept":"start","score":1.5},{"concept":"next","score":1.29},{"concept":"current","score":1.29},{"concept":"length","score":1.29},{"concept":"not","score":1.29},{"concept":"object","score":1.29}],"fileNumberOfLinesOfCode":338},{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"mongo","score":6.4},{"concept":"level","score":3.53},{"concept":"connect","score":3.53},{"concept":"span","score":3.53},{"concept":"loop","score":3.53},{"concept":"id","score":3},{"concept":"body","score":3},{"concept":"exp","score":3},{"concept":"optionally","score":2.72},{"concept":"slow","score":2.72},{"concept":"cat","score":2.72},{"concept":"distinct","score":2.72},{"concept":"hit","score":2.72},{"concept":"connection","score":2.72},{"concept":"retry","score":2.72},{"concept":"object","score":2.58},{"concept":"use","score":2.58},{"concept":"collection","score":2.13},{"concept":"array","score":2.13},{"concept":"database","score":2.13},{"concept":"available","score":2.13},{"concept":"delay","score":2.13},{"concept":"description","score":2.13},{"concept":"collector","score":1.77},{"concept":"trace","score":1.77},{"concept":"enable","score":1.77},{"concept":"parser","score":1.77},{"concept":"express","score":1.77},{"concept":"pino","score":1.77},{"concept":"pretty","score":1.77},{"concept":"print","score":1.77},{"concept":"label","score":1.77},{"concept":"logger","score":1.77},{"concept":"time","score":1.77},{"concept":"allow","score":1.77},{"concept":"origin","score":1.77},{"concept":"access","score":1.77},{"concept":"us","score":1.77},{"concept":"annotate","score":1.77},{"concept":"custom","score":1.77},{"concept":"tag","score":1.77},{"concept":"floor","score":1.77},{"concept":"random","score":1.77},{"concept":"extend","score":1.77},{"concept":"health","score":1.77},{"concept":"stat","score":1.77},{"concept":"status","score":1.77},{"concept":"send","score":1.77},{"concept":"down","score":1.77},{"concept":"process","score":1.77},{"concept":"category","score":1.77},{"concept":"fire","score":1.77},{"concept":"port","score":1.77},{"concept":"listen","score":1.77},{"concept":"load","score":1.5},{"concept":"anything","score":1.5},{"concept":"db","score":1.5},{"concept":"res","score":1.5},{"concept":"control","score":1.5},{"concept":"math","score":1.5},{"concept":"log","score":1.5},{"concept":"error","score":1.5},{"concept":"set","score":1.5},{"concept":"timeout","score":1.5},{"concept":"find","score":1.5},{"concept":"no","score":1.5},{"concept":"search","score":1.5},{"concept":"text","score":1.5},{"concept":"client","score":1.5},{"concept":"start","score":1.5},{"concept":"next","score":1.29},{"concept":"current","score":1.29},{"concept":"length","score":1.29},{"concept":"product","score":1.29},{"concept":"not","score":1.29}],"fileNumberOfLinesOfCode":156},{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"db","score":3},{"concept":"probably","score":2.72},{"concept":"smartest","score":2.72},{"concept":"planet","score":2.72},{"concept":"artificial","score":2.72},{"concept":"intelligence","score":2.72},{"concept":"fully","score":2.72},{"concept":"sentient","score":2.72},{"concept":"assistant","score":2.72},{"concept":"high","score":2.72},{"concept":"power","score":2.72},{"concept":"travel","score":2.72},{"concept":"far","score":2.72},{"concept":"reach","score":2.72},{"concept":"galaxy","score":2.72},{"concept":"protection","score":2.72},{"concept":"handy","score":2.72},{"concept":"lose","score":2.72},{"concept":"space","score":2.72},{"concept":"robot","score":2.72},{"concept":"ultimate","score":2.72},{"concept":"harvest","score":2.72},{"concept":"juggernaut","score":2.72},{"concept":"extraterrestrial","score":2.72},{"concept":"vegetation","score":2.72},{"concept":"harvester","score":2.72},{"concept":"extreme","score":2.72},{"concept":"probe","score":2.72},{"concept":"emulator","score":2.72},{"concept":"versatile","score":2.72},{"concept":"adapter","score":2.72},{"concept":"hack","score":2.72},{"concept":"system","score":2.72},{"concept":"exceptional","score":2.72},{"concept":"medical","score":2.72},{"concept":"machine","score":2.72},{"concept":"automatic","score":2.72},{"concept":"surgery","score":2.72},{"concept":"bedside","score":2.72},{"concept":"manner","score":2.72},{"concept":"strategic","score":2.72},{"concept":"human","score":2.72},{"concept":"diplomatic","score":2.72},{"concept":"protocol","score":2.72},{"concept":"red","score":2.72},{"concept":"responsive","score":2.72},{"concept":"enforcer","score":2.72},{"concept":"security","score":2.72},{"concept":"will","score":2.72},{"concept":"robotic","score":2.72},{"concept":"mine","score":2.72},{"concept":"cyborg","score":2.72},{"concept":"excellent","score":2.72},{"concept":"tunnel","score":2.72},{"concept":"capability","score":2.72},{"concept":"rare","score":2.72},{"concept":"mineral","score":2.72},{"concept":"observability","score":2.72},{"concept":"guru","score":2.72},{"concept":"neutralization","score":2.72},{"concept":"android","score":2.72},{"concept":"spaceship","score":2.72},{"concept":"bite","score":2.72},{"concept":"little","score":2.72},{"concept":"fellow","score":2.72},{"concept":"bring","score":2.72},{"concept":"breath","score":2.72},{"concept":"fresh","score":2.72},{"concept":"air","score":2.72},{"concept":"full","score":2.72},{"concept":"description","score":2.13},{"concept":"need","score":2.13},{"concept":"index","score":2.13},{"concept":"sibling","score":1.77},{"concept":"price","score":1.77},{"concept":"category","score":1.77},{"concept":"detail","score":1.77},{"concept":"unique","score":1.77},{"concept":"control","score":1.5},{"concept":"anything","score":1.5},{"concept":"text","score":1.5},{"concept":"search","score":1.5},{"concept":"product","score":1.29}],"fileNumberOfLinesOfCode":22},{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"db","score":3},{"concept":"partner","score":2.72},{"concept":"howdy","score":2.72},{"concept":"com","score":2.13},{"concept":"index","score":2.13},{"concept":"sibling","score":1.77},{"concept":"user","score":1.77},{"concept":"password","score":1.77},{"concept":"email","score":1.77},{"concept":"unique","score":1.77},{"concept":"product","score":1.29}],"fileNumberOfLinesOfCode":10},{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"mongo","score":6.4},{"concept":"collection","score":6.4},{"concept":"id","score":4.5},{"concept":"order","score":4.27},{"concept":"user","score":3.53},{"concept":"connect","score":3.53},{"concept":"level","score":3.53},{"concept":"span","score":3.53},{"concept":"create","score":3.53},{"concept":"body","score":3},{"concept":"exp","score":3},{"concept":"client","score":3},{"concept":"track","score":2.72},{"concept":"debug","score":2.72},{"concept":"supply","score":2.72},{"concept":"incorrect","score":2.72},{"concept":"validate","score":2.72},{"concept":"address","score":2.72},{"concept":"format","score":2.72},{"concept":"insufficient","score":2.72},{"concept":"insert","score":2.72},{"concept":"record","score":2.72},{"concept":"object","score":2.58},{"concept":"use","score":2.58},{"concept":"anonymous","score":2.13},{"concept":"number","score":2.13},{"concept":"counter","score":2.13},{"concept":"err","score":2.13},{"concept":"database","score":2.13},{"concept":"available","score":2.13},{"concept":"array","score":2.13},{"concept":"warn","score":2.13},{"concept":"already","score":2.13},{"concept":"result","score":2.13},{"concept":"history","score":2.13},{"concept":"push","score":2.13},{"concept":"host","score":2.13},{"concept":"ready","score":2.13},{"concept":"collector","score":1.77},{"concept":"trace","score":1.77},{"concept":"enable","score":1.77},{"concept":"parser","score":1.77},{"concept":"express","score":1.77},{"concept":"pino","score":1.77},{"concept":"pretty","score":1.77},{"concept":"print","score":1.77},{"concept":"label","score":1.77},{"concept":"logger","score":1.77},{"concept":"time","score":1.77},{"concept":"allow","score":1.77},{"concept":"origin","score":1.77},{"concept":"access","score":1.77},{"concept":"us","score":1.77},{"concept":"annotate","score":1.77},{"concept":"custom","score":1.77},{"concept":"tag","score":1.77},{"concept":"floor","score":1.77},{"concept":"random","score":1.77},{"concept":"extend","score":1.77},{"concept":"health","score":1.77},{"concept":"stat","score":1.77},{"concept":"status","score":1.77},{"concept":"send","score":1.77},{"concept":"check","score":1.77},{"concept":"post","score":1.77},{"concept":"login","score":1.77},{"concept":"password","score":1.77},{"concept":"complete","score":1.77},{"concept":"email","score":1.77},{"concept":"register","score":1.77},{"concept":"list","score":1.77},{"concept":"process","score":1.77},{"concept":"loop","score":1.77},{"concept":"fire","score":1.77},{"concept":"port","score":1.77},{"concept":"listen","score":1.77},{"concept":"load","score":1.5},{"concept":"anything","score":1.5},{"concept":"db","score":1.5},{"concept":"res","score":1.5},{"concept":"control","score":1.5},{"concept":"math","score":1.5},{"concept":"log","score":1.5},{"concept":"error","score":1.5},{"concept":"find","score":1.5},{"concept":"undefined","score":1.5},{"concept":"datum","score":1.5},{"concept":"no","score":1.5},{"concept":"set","score":1.5},{"concept":"timeout","score":1.5},{"concept":"start","score":1.5},{"concept":"next","score":1.29},{"concept":"current","score":1.29},{"concept":"length","score":1.29},{"concept":"not","score":1.29}],"fileNumberOfLinesOfCode":261},{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"event","score":14.94},{"concept":"class","score":13.61},{"concept":"handler","score":13.61},{"concept":"offset","score":13.61},{"concept":"top","score":13.61},{"concept":"element","score":10.67},{"concept":"leave","score":8.17},{"concept":"height","score":8.17},{"concept":"child","score":8.17},{"concept":"remove","score":7.07},{"concept":"selector","score":6.4},{"concept":"attribute","score":6.4},{"concept":"style","score":6.4},{"concept":"query","score":5.45},{"concept":"el","score":5.45},{"concept":"listener","score":5.45},{"concept":"scroll","score":5.45},{"concept":"width","score":5.45},{"concept":"blur","score":5.45},{"concept":"focus","score":5.45},{"concept":"key","score":5.45},{"concept":"previous","score":5.45},{"concept":"document","score":4.27},{"concept":"suggestion","score":4.27},{"concept":"val","score":4.27},{"concept":"select","score":4.27},{"concept":"last","score":4.27},{"concept":"page","score":4.27},{"concept":"add","score":3.53},{"concept":"item","score":3.53},{"concept":"create","score":3.53},{"concept":"sibling","score":3.53},{"concept":"set","score":3},{"concept":"timeout","score":3},{"concept":"java","score":2.72},{"concept":"script","score":2.72},{"concept":"copyright","score":2.72},{"concept":"git","score":2.72},{"concept":"hub","score":2.72},{"concept":"license","score":2.72},{"concept":"option","score":2.72},{"concept":"helper","score":2.72},{"concept":"contain","score":2.72},{"concept":"reg","score":2.72},{"concept":"test","score":2.72},{"concept":"attach","score":2.72},{"concept":"detach","score":2.72},{"concept":"live","score":2.72},{"concept":"context","score":2.72},{"concept":"target","score":2.72},{"concept":"src","score":2.72},{"concept":"parent","score":2.72},{"concept":"call","score":2.72},{"concept":"min","score":2.72},{"concept":"char","score":2.72},{"concept":"menu","score":2.72},{"concept":"escape","score":2.72},{"concept":"special","score":2.72},{"concept":"character","score":2.72},{"concept":"replace","score":2.72},{"concept":"re","score":2.72},{"concept":"split","score":2.72},{"concept":"join","score":2.72},{"concept":"property","score":2.72},{"concept":"container","score":2.72},{"concept":"off","score":2.72},{"concept":"sc","score":2.72},{"concept":"resize","score":2.72},{"concept":"bound","score":2.72},{"concept":"rect","score":2.72},{"concept":"round","score":2.72},{"concept":"bottom","score":2.72},{"concept":"right","score":2.72},{"concept":"outer","score":2.72},{"concept":"display","score":2.72},{"concept":"block","score":2.72},{"concept":"max","score":2.72},{"concept":"compute","score":2.72},{"concept":"scr","score":2.72},{"concept":"sel","score":2.72},{"concept":"append","score":2.72},{"concept":"outside","score":2.72},{"concept":"click","score":2.72},{"concept":"value","score":2.72},{"concept":"none","score":2.72},{"concept":"sb","score":2.72},{"concept":"hover","score":2.72},{"concept":"hide","score":2.72},{"concept":"fast","score":2.72},{"concept":"active","score":2.72},{"concept":"inner","score":2.72},{"concept":"html","score":2.72},{"concept":"keydown","score":2.72},{"concept":"node","score":2.72},{"concept":"first","score":2.72},{"concept":"enter","score":2.72},{"concept":"keyup","score":2.72},{"concept":"timer","score":2.72},{"concept":"part","score":2.72},{"concept":"slice","score":2.72},{"concept":"destroy","score":2.72},{"concept":"define","score":2.72},{"concept":"export","score":2.72},{"concept":"next","score":2.58},{"concept":"auto","score":2.13},{"concept":"com","score":2.13},{"concept":"strict","score":2.13},{"concept":"work","score":2.13},{"concept":"source","score":2.13},{"concept":"delay","score":2.13},{"concept":"cache","score":2.13},{"concept":"render","score":2.13},{"concept":"div","score":2.13},{"concept":"term","score":2.13},{"concept":"update","score":2.13},{"concept":"window","score":2.13},{"concept":"parse","score":2.13},{"concept":"int","score":2.13},{"concept":"input","score":2.13},{"concept":"suggest","score":2.13},{"concept":"clear","score":2.13},{"concept":"request","score":2.13},{"concept":"empty","score":2.13},{"concept":"method","score":2.13},{"concept":"module","score":2.13},{"concept":"complete","score":1.77},{"concept":"list","score":1.77},{"concept":"code","score":1.77},{"concept":"down","score":1.77},{"concept":"exp","score":1.5},{"concept":"find","score":1.5},{"concept":"search","score":1.5},{"concept":"datum","score":1.5},{"concept":"client","score":1.5},{"concept":"math","score":1.5},{"concept":"body","score":1.5},{"concept":"no","score":1.5},{"concept":"undefined","score":1.5},{"concept":"use","score":1.29},{"concept":"not","score":1.29},{"concept":"object","score":1.29},{"concept":"length","score":1.29},{"concept":"current","score":1.29}],"fileNumberOfLinesOfCode":187},{"type":null,"repository":"robot-shop-master","file":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js","location":"C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js#L0C0-L0C0","operation":null,"method":null,"sample":null,"tokens":[{"concept":"route","score":13.61},{"concept":"load","score":11.99},{"concept":"template","score":10.89},{"concept":"disable","score":10.89},{"concept":"location","score":8.54},{"concept":"select","score":8.54},{"concept":"change","score":8.17},{"concept":"rat","score":8.17},{"concept":"country","score":8.17},{"concept":"cart","score":6.4},{"concept":"ship","score":6.4},{"concept":"val","score":6.4},{"concept":"auto","score":6.4},{"concept":"history","score":6.4},{"concept":"provider","score":5.45},{"concept":"url","score":5.45},{"concept":"scope","score":5.45},{"concept":"old","score":5.45},{"concept":"message","score":5.45},{"concept":"rate","score":5.45},{"concept":"confirm","score":5.45},{"concept":"product","score":5.15},{"concept":"search","score":4.5},{"concept":"id","score":4.5},{"concept":"clear","score":4.27},{"concept":"cache","score":4.27},{"concept":"result","score":4.27},{"concept":"calc","score":4.27},{"concept":"render","score":4.27},{"concept":"order","score":4.27},{"concept":"user","score":3.53},{"concept":"remove","score":3.53},{"concept":"category","score":3.53},{"concept":"add","score":3.53},{"concept":"item","score":3.53},{"concept":"complete","score":3.53},{"concept":"code","score":3.53},{"concept":"text","score":3},{"concept":"start","score":3},{"concept":"angular","score":2.72},{"concept":"ng","score":2.72},{"concept":"share","score":2.72},{"concept":"controller","score":2.72},{"concept":"factory","score":2.72},{"concept":"splash","score":2.72},{"concept":"payment","score":2.72},{"concept":"otherwise","score":2.72},{"concept":"redirect","score":2.72},{"concept":"rewrite","score":2.72},{"concept":"hash","score":2.72},{"concept":"fragment","score":2.72},{"concept":"development","score":2.72},{"concept":"later","score":2.72},{"concept":"root","score":2.72},{"concept":"view","score":2.72},{"concept":"console","score":2.72},{"concept":"may","score":2.72},{"concept":"success","score":2.72},{"concept":"etc","score":2.72},{"concept":"uniqueid","score":2.72},{"concept":"generate","score":2.72},{"concept":"meta","score":2.72},{"concept":"environment","score":2.72},{"concept":"production","score":2.72},{"concept":"variant","score":2.72},{"concept":"normal","score":2.72},{"concept":"new","score":2.72},{"concept":"params","score":2.72},{"concept":"avg","score":2.72},{"concept":"score","score":2.72},{"concept":"put","score":2.72},{"concept":"thank","score":2.72},{"concept":"feedback","score":2.72},{"concept":"vote","score":2.72},{"concept":"opacity","score":2.72},{"concept":"fetch","score":2.72},{"concept":"buy","score":2.72},{"concept":"city","score":2.72},{"concept":"go","score":2.72},{"concept":"final","score":2.72},{"concept":"confirmation","score":2.72},{"concept":"match","score":2.72},{"concept":"apply","score":2.72},{"concept":"button","score":2.72},{"concept":"cont","score":2.72},{"concept":"pay","score":2.72},{"concept":"place","score":2.72},{"concept":"across","score":2.72},{"concept":"move","score":2.72},{"concept":"yet","score":2.72},{"concept":"trim","score":2.72},{"concept":"field","score":2.72},{"concept":"equal","score":2.72},{"concept":"current","score":2.58},{"concept":"strict","score":2.13},{"concept":"module","score":2.13},{"concept":"total","score":2.13},{"concept":"need","score":2.13},{"concept":"run","score":2.13},{"concept":"content","score":2.13},{"concept":"event","score":2.13},{"concept":"page","score":2.13},{"concept":"empty","score":2.13},{"concept":"method","score":2.13},{"concept":"anonymous","score":2.13},{"concept":"quantity","score":2.13},{"concept":"document","score":2.13},{"concept":"element","score":2.13},{"concept":"style","score":2.13},{"concept":"qty","score":2.13},{"concept":"last","score":2.13},{"concept":"selector","score":2.13},{"concept":"input","score":2.13},{"concept":"source","score":2.13},{"concept":"term","score":2.13},{"concept":"suggest","score":2.13},{"concept":"div","score":2.13},{"concept":"suggestion","score":2.13},{"concept":"attribute","score":2.13},{"concept":"exist","score":2.13},{"concept":"window","score":2.13},{"concept":"login","score":1.77},{"concept":"check","score":1.77},{"concept":"unique","score":1.77},{"concept":"price","score":1.77},{"concept":"detail","score":1.77},{"concept":"email","score":1.77},{"concept":"post","score":1.77},{"concept":"down","score":1.77},{"concept":"password","score":1.77},{"concept":"register","score":1.77},{"concept":"datum","score":1.5},{"concept":"log","score":1.5},{"concept":"undefined","score":1.5},{"concept":"res","score":1.5},{"concept":"error","score":1.5},{"concept":"set","score":1.5},{"concept":"timeout","score":1.5},{"concept":"use","score":1.29},{"concept":"not","score":1.29},{"concept":"object","score":1.29},{"concept":"next","score":1.29},{"concept":"length","score":1.29}],"fileNumberOfLinesOfCode":489}]]
+[
+    [
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "prom",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "registry",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "help",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "redis",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "catalogue",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "metric",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "header",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "plain",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "application",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "save",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "na",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "less",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "one",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "greater",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "zero",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "look",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "stock",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "doe",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "tax",
+                    "score": 2.25,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "subtotal",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "merge",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "inc",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "negative",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "splice",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "distance",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "cost",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "miss",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "string",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "request",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "counter",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "run",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "cart",
+                    "score": 1.85,
+                    "nbOccurence": 72
+                },
+                {
+                    "concept": "host",
+                    "score": 1.85,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "content",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "err",
+                    "score": 1.85,
+                    "nbOccurence": 45
+                },
+                {
+                    "concept": "parse",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "qty",
+                    "score": 1.85,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "quantity",
+                    "score": 1.85,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "int",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "warn",
+                    "score": 1.85,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "number",
+                    "score": 1.85,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "already",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "exist",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "total",
+                    "score": 1.85,
+                    "nbOccurence": 17
+                },
+                {
+                    "concept": "calc",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "work",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "ship",
+                    "score": 1.85,
+                    "nbOccurence": 15
+                },
+                {
+                    "concept": "location",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "push",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "update",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "ready",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "collector",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "trace",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "enable",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "parser",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "express",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "pino",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "register",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "item",
+                    "score": 1.56,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "add",
+                    "score": 1.56,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "connect",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "process",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "level",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "pretty",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "print",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "label",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "logger",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "time",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "allow",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "origin",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "access",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "us",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "span",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "annotate",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "custom",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "tag",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "floor",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "random",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "extend",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "health",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "stat",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "send",
+                    "score": 1.56,
+                    "nbOccurence": 27
+                },
+                {
+                    "concept": "status",
+                    "score": 1.56,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "login",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "create",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "check",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "detail",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "price",
+                    "score": 1.56,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "list",
+                    "score": 1.56,
+                    "nbOccurence": 17
+                },
+                {
+                    "concept": "remove",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "post",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "loop",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "code",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "fire",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "port",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "listen",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "load",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "anything",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "body",
+                    "score": 1.34,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "exp",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "client",
+                    "score": 1.34,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "res",
+                    "score": 1.34,
+                    "nbOccurence": 48
+                },
+                {
+                    "concept": "control",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "math",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "text",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "id",
+                    "score": 1.34,
+                    "nbOccurence": 18
+                },
+                {
+                    "concept": "datum",
+                    "score": 1.34,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "log",
+                    "score": 1.34,
+                    "nbOccurence": 19
+                },
+                {
+                    "concept": "error",
+                    "score": 1.34,
+                    "nbOccurence": 21
+                },
+                {
+                    "concept": "find",
+                    "score": 1.34,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "undefined",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "no",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "start",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "use",
+                    "score": 1.15,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "next",
+                    "score": 1.15,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "current",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "length",
+                    "score": 1.15,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "not",
+                    "score": 1.15,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "product",
+                    "score": 1.15,
+                    "nbOccurence": 17
+                },
+                {
+                    "concept": "object",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                }
+            ],
+            "fileNumberOfLinesOfCode": 338
+        },
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "optionally",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "slow",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "cat",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "distinct",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "hit",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "connection",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "retry",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "mongo",
+                    "score": 1.85,
+                    "nbOccurence": 14
+                },
+                {
+                    "concept": "collection",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "array",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "database",
+                    "score": 1.85,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "available",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "delay",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "description",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "collector",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "trace",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "enable",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "parser",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "express",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "pino",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "level",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "pretty",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "print",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "label",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "logger",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "connect",
+                    "score": 1.56,
+                    "nbOccurence": 13
+                },
+                {
+                    "concept": "time",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "allow",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "origin",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "access",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "us",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "span",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "annotate",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "custom",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "tag",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "floor",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "random",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "extend",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "health",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "stat",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "status",
+                    "score": 1.56,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "send",
+                    "score": 1.56,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "down",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "process",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "category",
+                    "score": 1.56,
+                    "nbOccurence": 7
+                },
+                {
+                    "concept": "loop",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "fire",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "port",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "listen",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "load",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "anything",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "id",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "body",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "exp",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "db",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "res",
+                    "score": 1.34,
+                    "nbOccurence": 28
+                },
+                {
+                    "concept": "control",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "math",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "log",
+                    "score": 1.34,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "error",
+                    "score": 1.34,
+                    "nbOccurence": 20
+                },
+                {
+                    "concept": "set",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "timeout",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "find",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "no",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "search",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "text",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "client",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "start",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "object",
+                    "score": 1.15,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "use",
+                    "score": 1.15,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "next",
+                    "score": 1.15,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "current",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "length",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "product",
+                    "score": 1.15,
+                    "nbOccurence": 18
+                },
+                {
+                    "concept": "not",
+                    "score": 1.15,
+                    "nbOccurence": 11
+                }
+            ],
+            "fileNumberOfLinesOfCode": 156
+        },
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "probably",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "smartest",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "planet",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "artificial",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "intelligence",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "fully",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "sentient",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "assistant",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "high",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "power",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "travel",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "far",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "reach",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "galaxy",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "protection",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "handy",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "lose",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "space",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "robot",
+                    "score": 2.25,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "ultimate",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "harvest",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "juggernaut",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "extraterrestrial",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "vegetation",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "harvester",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "extreme",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "probe",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "emulator",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "versatile",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "adapter",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "hack",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "system",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "exceptional",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "medical",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "machine",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "automatic",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "surgery",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "bedside",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "manner",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "strategic",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "human",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "diplomatic",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "protocol",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "red",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "responsive",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "enforcer",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "security",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "will",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "robotic",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "mine",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "cyborg",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "excellent",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "tunnel",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "capability",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "rare",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "mineral",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "observability",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "guru",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "neutralization",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "android",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "spaceship",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "bite",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "little",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "fellow",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "bring",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "breath",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "fresh",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "air",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "full",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "description",
+                    "score": 1.85,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "need",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "index",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "sibling",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "price",
+                    "score": 1.56,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "category",
+                    "score": 1.56,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "detail",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "unique",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "db",
+                    "score": 1.34,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "control",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "anything",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "text",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "search",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "product",
+                    "score": 1.15,
+                    "nbOccurence": 5
+                }
+            ],
+            "fileNumberOfLinesOfCode": 22
+        },
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "partner",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "howdy",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "com",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "index",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "sibling",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "user",
+                    "score": 1.56,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "password",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "email",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "unique",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "db",
+                    "score": 1.34,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "product",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                }
+            ],
+            "fileNumberOfLinesOfCode": 10
+        },
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "track",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "debug",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "supply",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "incorrect",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "validate",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "address",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "format",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "insufficient",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "insert",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "record",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "mongo",
+                    "score": 1.85,
+                    "nbOccurence": 15
+                },
+                {
+                    "concept": "collection",
+                    "score": 1.85,
+                    "nbOccurence": 16
+                },
+                {
+                    "concept": "order",
+                    "score": 1.85,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "anonymous",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "number",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "counter",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "err",
+                    "score": 1.85,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "database",
+                    "score": 1.85,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "available",
+                    "score": 1.85,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "array",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "warn",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "already",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "result",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "history",
+                    "score": 1.85,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "push",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "host",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "ready",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "collector",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "trace",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "enable",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "parser",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "express",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "pino",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "user",
+                    "score": 1.56,
+                    "nbOccurence": 34
+                },
+                {
+                    "concept": "connect",
+                    "score": 1.56,
+                    "nbOccurence": 15
+                },
+                {
+                    "concept": "level",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "pretty",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "print",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "label",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "logger",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "time",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "allow",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "origin",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "access",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "us",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "span",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "annotate",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "custom",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "tag",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "floor",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "random",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "extend",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "health",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "stat",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "status",
+                    "score": 1.56,
+                    "nbOccurence": 24
+                },
+                {
+                    "concept": "send",
+                    "score": 1.56,
+                    "nbOccurence": 30
+                },
+                {
+                    "concept": "check",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "post",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "login",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "password",
+                    "score": 1.56,
+                    "nbOccurence": 7
+                },
+                {
+                    "concept": "complete",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "email",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "register",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "create",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "list",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "process",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "loop",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "fire",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "port",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "listen",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "load",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "anything",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "id",
+                    "score": 1.34,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "body",
+                    "score": 1.34,
+                    "nbOccurence": 20
+                },
+                {
+                    "concept": "exp",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "db",
+                    "score": 1.34,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "res",
+                    "score": 1.34,
+                    "nbOccurence": 46
+                },
+                {
+                    "concept": "control",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "math",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "log",
+                    "score": 1.34,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "error",
+                    "score": 1.34,
+                    "nbOccurence": 30
+                },
+                {
+                    "concept": "find",
+                    "score": 1.34,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "undefined",
+                    "score": 1.34,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "datum",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "no",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "client",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "set",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "timeout",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "start",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "object",
+                    "score": 1.15,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "use",
+                    "score": 1.15,
+                    "nbOccurence": 7
+                },
+                {
+                    "concept": "next",
+                    "score": 1.15,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "current",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "length",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "not",
+                    "score": 1.15,
+                    "nbOccurence": 18
+                }
+            ],
+            "fileNumberOfLinesOfCode": 261
+        },
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "java",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "script",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "copyright",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "git",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "hub",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "license",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "option",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "query",
+                    "score": 2.25,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "helper",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "class",
+                    "score": 2.25,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "el",
+                    "score": 2.25,
+                    "nbOccurence": 21
+                },
+                {
+                    "concept": "contain",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "reg",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "test",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "handler",
+                    "score": 2.25,
+                    "nbOccurence": 19
+                },
+                {
+                    "concept": "attach",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "listener",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "detach",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "live",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "context",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "target",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "src",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "parent",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "call",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "min",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "char",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "offset",
+                    "score": 2.25,
+                    "nbOccurence": 7
+                },
+                {
+                    "concept": "leave",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "top",
+                    "score": 2.25,
+                    "nbOccurence": 18
+                },
+                {
+                    "concept": "menu",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "escape",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "special",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "character",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "replace",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "re",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "split",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "join",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "property",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "container",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "off",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "sc",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "resize",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "bound",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "rect",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "round",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "scroll",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "bottom",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "width",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "right",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "outer",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "display",
+                    "score": 2.25,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "block",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "max",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "height",
+                    "score": 2.25,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "compute",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "scr",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "sel",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "append",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "child",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "outside",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "click",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "value",
+                    "score": 2.25,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "none",
+                    "score": 2.25,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "blur",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "sb",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "hover",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "hide",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "fast",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "active",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "focus",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "inner",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "html",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "keydown",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "key",
+                    "score": 2.25,
+                    "nbOccurence": 16
+                },
+                {
+                    "concept": "node",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "first",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "previous",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "enter",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "keyup",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "timer",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "part",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "slice",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "destroy",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "define",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "export",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "auto",
+                    "score": 1.85,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "com",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "strict",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "document",
+                    "score": 1.85,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "selector",
+                    "score": 1.85,
+                    "nbOccurence": 13
+                },
+                {
+                    "concept": "event",
+                    "score": 1.85,
+                    "nbOccurence": 24
+                },
+                {
+                    "concept": "work",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "element",
+                    "score": 1.85,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "source",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "delay",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "cache",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "render",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "div",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "suggestion",
+                    "score": 1.85,
+                    "nbOccurence": 21
+                },
+                {
+                    "concept": "val",
+                    "score": 1.85,
+                    "nbOccurence": 28
+                },
+                {
+                    "concept": "select",
+                    "score": 1.85,
+                    "nbOccurence": 14
+                },
+                {
+                    "concept": "term",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "attribute",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "last",
+                    "score": 1.85,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "update",
+                    "score": 1.85,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "style",
+                    "score": 1.85,
+                    "nbOccurence": 15
+                },
+                {
+                    "concept": "window",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "page",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "parse",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "int",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "input",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "suggest",
+                    "score": 1.85,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "clear",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "request",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "empty",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "method",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "module",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "complete",
+                    "score": 1.56,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "list",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "add",
+                    "score": 1.56,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "remove",
+                    "score": 1.56,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "item",
+                    "score": 1.56,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "create",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "code",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "down",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "sibling",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "exp",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "find",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "search",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "datum",
+                    "score": 1.34,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "set",
+                    "score": 1.34,
+                    "nbOccurence": 7
+                },
+                {
+                    "concept": "client",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "math",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "body",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "timeout",
+                    "score": 1.34,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "no",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "undefined",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "use",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "not",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "object",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "length",
+                    "score": 1.15,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "next",
+                    "score": 1.15,
+                    "nbOccurence": 14
+                },
+                {
+                    "concept": "current",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                }
+            ],
+            "fileNumberOfLinesOfCode": 187
+        },
+        {
+            "type": null,
+            "repository": "robot-shop-master",
+            "file": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+            "location": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js#L0C0-L0C0",
+            "operation": null,
+            "method": null,
+            "sample": null,
+            "tokens": [
+                {
+                    "concept": "angular",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "ng",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "route",
+                    "score": 2.25,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "share",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "controller",
+                    "score": 2.25,
+                    "nbOccurence": 15
+                },
+                {
+                    "concept": "factory",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "provider",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "template",
+                    "score": 2.25,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "url",
+                    "score": 2.25,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "splash",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "payment",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "otherwise",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "redirect",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "rewrite",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "hash",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "fragment",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "development",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "disable",
+                    "score": 2.25,
+                    "nbOccurence": 10
+                },
+                {
+                    "concept": "later",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "root",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "scope",
+                    "score": 2.25,
+                    "nbOccurence": 160
+                },
+                {
+                    "concept": "view",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "console",
+                    "score": 2.25,
+                    "nbOccurence": 51
+                },
+                {
+                    "concept": "may",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "change",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "success",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "etc",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "uniqueid",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "generate",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "meta",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "environment",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "production",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "variant",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "normal",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "new",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "old",
+                    "score": 2.25,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "params",
+                    "score": 2.25,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "message",
+                    "score": 2.25,
+                    "nbOccurence": 19
+                },
+                {
+                    "concept": "rat",
+                    "score": 2.25,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "avg",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "rate",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "score",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "put",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "thank",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "feedback",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "vote",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "opacity",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "fetch",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "buy",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "country",
+                    "score": 2.25,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "city",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "confirm",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "go",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "final",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "confirmation",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "match",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "apply",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "button",
+                    "score": 2.25,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "cont",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "pay",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "place",
+                    "score": 2.25,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "across",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "move",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "yet",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "trim",
+                    "score": 2.25,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "field",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "equal",
+                    "score": 2.25,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "strict",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "module",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "cart",
+                    "score": 1.85,
+                    "nbOccurence": 50
+                },
+                {
+                    "concept": "total",
+                    "score": 1.85,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "location",
+                    "score": 1.85,
+                    "nbOccurence": 17
+                },
+                {
+                    "concept": "ship",
+                    "score": 1.85,
+                    "nbOccurence": 20
+                },
+                {
+                    "concept": "need",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "clear",
+                    "score": 1.85,
+                    "nbOccurence": 8
+                },
+                {
+                    "concept": "cache",
+                    "score": 1.85,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "run",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "content",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "event",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "page",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "empty",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "method",
+                    "score": 1.85,
+                    "nbOccurence": 20
+                },
+                {
+                    "concept": "val",
+                    "score": 1.85,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "anonymous",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "result",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "quantity",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "document",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "element",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "style",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "qty",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "last",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "select",
+                    "score": 1.85,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "calc",
+                    "score": 1.85,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "auto",
+                    "score": 1.85,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "selector",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "input",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "source",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "term",
+                    "score": 1.85,
+                    "nbOccurence": 5
+                },
+                {
+                    "concept": "suggest",
+                    "score": 1.85,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "render",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "div",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "suggestion",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "attribute",
+                    "score": 1.85,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "order",
+                    "score": 1.85,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "exist",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "history",
+                    "score": 1.85,
+                    "nbOccurence": 7
+                },
+                {
+                    "concept": "window",
+                    "score": 1.85,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "user",
+                    "score": 1.56,
+                    "nbOccurence": 64
+                },
+                {
+                    "concept": "login",
+                    "score": 1.56,
+                    "nbOccurence": 6
+                },
+                {
+                    "concept": "remove",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "check",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "category",
+                    "score": 1.56,
+                    "nbOccurence": 11
+                },
+                {
+                    "concept": "unique",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "price",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "detail",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "email",
+                    "score": 1.56,
+                    "nbOccurence": 9
+                },
+                {
+                    "concept": "add",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "item",
+                    "score": 1.56,
+                    "nbOccurence": 14
+                },
+                {
+                    "concept": "post",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "complete",
+                    "score": 1.56,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "code",
+                    "score": 1.56,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "down",
+                    "score": 1.56,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "password",
+                    "score": 1.56,
+                    "nbOccurence": 16
+                },
+                {
+                    "concept": "register",
+                    "score": 1.56,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "datum",
+                    "score": 1.34,
+                    "nbOccurence": 171
+                },
+                {
+                    "concept": "search",
+                    "score": 1.34,
+                    "nbOccurence": 17
+                },
+                {
+                    "concept": "text",
+                    "score": 1.34,
+                    "nbOccurence": 12
+                },
+                {
+                    "concept": "load",
+                    "score": 1.34,
+                    "nbOccurence": 16
+                },
+                {
+                    "concept": "log",
+                    "score": 1.34,
+                    "nbOccurence": 51
+                },
+                {
+                    "concept": "undefined",
+                    "score": 1.34,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "res",
+                    "score": 1.34,
+                    "nbOccurence": 46
+                },
+                {
+                    "concept": "error",
+                    "score": 1.34,
+                    "nbOccurence": 25
+                },
+                {
+                    "concept": "id",
+                    "score": 1.34,
+                    "nbOccurence": 14
+                },
+                {
+                    "concept": "start",
+                    "score": 1.34,
+                    "nbOccurence": 2
+                },
+                {
+                    "concept": "set",
+                    "score": 1.34,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "timeout",
+                    "score": 1.34,
+                    "nbOccurence": 4
+                },
+                {
+                    "concept": "use",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "current",
+                    "score": 1.15,
+                    "nbOccurence": 39
+                },
+                {
+                    "concept": "product",
+                    "score": 1.15,
+                    "nbOccurence": 19
+                },
+                {
+                    "concept": "not",
+                    "score": 1.15,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "object",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                },
+                {
+                    "concept": "next",
+                    "score": 1.15,
+                    "nbOccurence": 3
+                },
+                {
+                    "concept": "length",
+                    "score": 1.15,
+                    "nbOccurence": 1
+                }
+            ],
+            "fileNumberOfLinesOfCode": 489
+        }
+    ]
+]

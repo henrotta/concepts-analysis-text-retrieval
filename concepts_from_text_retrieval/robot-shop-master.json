@@ -1,3504 +1,3504 @@
 {
-  "process": [
+  "first": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "length": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "target": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "child": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 4
-    }
-  ],
-  "select": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 14
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 9
-    }
-  ],
-  "mongo": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 14
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 15
-    }
-  ],
-  "application": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "character": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "probably": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "exceptional": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    }
-  ],
-  "hub": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "id": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 18
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 11
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 14
-    }
-  ],
-  "etc": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "exp": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "blur": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 5
-    }
-  ],
-  "hide": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "html": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "rat": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 9
-    }
-  ],
-  "floor": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 1
     }
   ],
   "suggest": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 4
     },
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+      "sourceFile": "web/static/js/controller.js",
       "nbOccurence": 3
     }
   ],
-  "bound": [
+  "selector": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "parse": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "controller": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 15
-    }
-  ],
-  "observability": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "log": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 19
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 11
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 25
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 51
-    }
-  ],
-  "none": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 8
-    }
-  ],
-  "look": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "attribute": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "planet": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "fully": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    }
-  ],
-  "tax": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 12
-    }
-  ],
-  "robot": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 9
-    }
-  ],
-  "rare": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "extreme": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "module": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "check": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "go": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "block": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "environment": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "scr": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "complete": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "less": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "container": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "pretty": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "register": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "part": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "git": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "insufficient": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "code": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "result": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "normal": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "one": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "option": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 4
-    }
-  ],
-  "error": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 21
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 20
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 30
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 25
-    }
-  ],
-  "need": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "validate": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "div": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "contain": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "slice": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "no": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "origin": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "hit": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "loop": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "header": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "script": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "travel": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    }
-  ],
-  "yet": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "detach": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "export": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "ultimate": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "space": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "work": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "merge": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "spaceship": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "round": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "negative": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "method": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 20
-    }
-  ],
-  "breath": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "err": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 45
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 4
-    }
-  ],
-  "incorrect": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "fetch": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "full": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "distinct": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "inner": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "new": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "location": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 17
-    }
-  ],
-  "scope": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 160
-    }
-  ],
-  "counter": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "time": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "hack": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "rect": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "node": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "append": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "city": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "anything": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "registry": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "client": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "cat": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "history": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 12
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 7
-    }
-  ],
-  "style": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 15
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "render": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "optionally": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "bottom": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "diplomatic": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "fast": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "resize": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 4
-    }
-  ],
-  "rewrite": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "datum": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 25
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 171
-    }
-  ],
-  "security": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "harvest": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "ship": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 15
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 20
-    }
-  ],
-  "first": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "array": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "extraterrestrial": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "robotic": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "meta": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "logger": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "neutralization": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "math": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "add": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "slow": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "level": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "warn": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "splash": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "prom": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    }
-  ],
-  "power": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "query": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 9
-    }
-  ],
-  "escape": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "match": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "protocol": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "partner": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 2
-    }
-  ],
-  "help": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "print": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "already": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "int": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "otherwise": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "char": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 5
-    }
-  ],
-  "pay": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "reach": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "far": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "catalogue": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "fellow": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "max": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 5
-    }
-  ],
-  "country": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 8
-    }
-  ],
-  "quantity": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "special": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "value": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 8
-    }
-  ],
-  "button": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "object": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "android": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "property": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "high": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "db": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 5
-    }
-  ],
-  "strategic": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "outside": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "keydown": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "disable": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 10
-    }
-  ],
-  "val": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 28
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 12
-    }
-  ],
-  "top": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 18
-    }
-  ],
-  "database": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 12
-    }
-  ],
-  "document": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 12
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "avg": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "later": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "factory": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "save": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 6
-    }
-  ],
-  "join": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "apply": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "artificial": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 3
-    }
-  ],
-  "tag": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "ready": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "allow": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "route": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 11
-    }
-  ],
-  "stock": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "set": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 7
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "variant": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "medical": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "focus": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    }
-  ],
-  "index": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 1
-    }
-  ],
-  "compute": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "exist": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "root": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "old": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 6
-    }
-  ],
-  "port": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 4
-    }
-  ],
-  "split": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "enable": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "lose": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "change": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 6
-    }
-  ],
-  "hash": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "us": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "cyborg": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "helper": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "active": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "strict": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "doe": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "params": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 5
-    }
-  ],
-  "message": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 19
-    }
-  ],
-  "versatile": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "run": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "hover": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "input": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "collection": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 16
-    }
-  ],
-  "tunnel": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "sibling": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "share": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "url": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 8
-    }
-  ],
-  "mine": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "development": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "capability": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "retry": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "confirm": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "mineral": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "bring": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "metric": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "list": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 17
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "re": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "angular": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 5
-    }
-  ],
-  "window": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "express": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 4
-    }
-  ],
-  "content": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "rate": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "cache": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "automatic": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "system": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "surgery": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "format": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "outer": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "sel": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 5
-    }
-  ],
-  "stat": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "extend": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "find": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "available": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 12
-    }
-  ],
-  "na": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "current": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 39
-    }
-  ],
-  "score": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "move": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "text": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 12
-    }
-  ],
-  "equal": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "off": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "create": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "juggernaut": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "use": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 7
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "keyup": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 4
-    }
-  ],
-  "handy": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "remove": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "reg": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "click": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "assistant": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    }
-  ],
-  "protection": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "push": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "opacity": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "span": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "emulator": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    }
-  ],
-  "label": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "connect": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 13
     },
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 15
-    }
-  ],
-  "random": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "fresh": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "leave": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    }
-  ],
-  "fragment": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "inc": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "collector": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "excellent": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "total": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 17
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 5
-    }
-  ],
-  "com": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "password": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 7
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 16
-    }
-  ],
-  "not": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 12
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 11
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 18
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "production": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "red": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "redis": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    }
-  ],
-  "last": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 9
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "term": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 5
-    }
-  ],
-  "field": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "pino": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "control": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "uniqueid": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "thank": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "email": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 9
-    }
-  ],
-  "down": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "feedback": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "price": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 11
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "clear": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 8
-    }
-  ],
-  "post": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "intelligence": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 3
-    }
-  ],
-  "provider": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 6
-    }
-  ],
-  "supply": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "number": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "handler": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 19
-    }
-  ],
-  "element": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "request": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "key": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 16
-    }
-  ],
-  "define": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "java": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "bedside": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "harvester": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "guru": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "context": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "user": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 34
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 64
-    }
-  ],
-  "annotate": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "body": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 20
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "height": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 11
-    }
-  ],
-  "success": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "timer": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "unique": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "order": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "human": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "enforcer": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "el": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 21
-    }
-  ],
-  "search": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 17
-    }
-  ],
-  "redirect": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "event": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 24
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "adapter": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "trace": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "will": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 2
-    }
-  ],
-  "vegetation": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "payment": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "parent": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "bite": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "final": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "miss": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "listen": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "send": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 27
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 12
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 30
-    }
-  ],
-  "view": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "cont": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "track": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "destroy": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "may": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "copyright": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "subtotal": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    }
-  ],
-  "smartest": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "src": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "attach": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "howdy": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 1
-    }
-  ],
-  "debug": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "login": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 6
-    }
-  ],
-  "insert": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "display": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 9
-    }
-  ],
-  "undefined": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "confirmation": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "listener": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "call": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "cart": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 72
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 50
-    }
-  ],
-  "delay": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "plain": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "air": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "start": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "address": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "page": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "parser": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "menu": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "record": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "category": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 7
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 11
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 11
-    }
-  ],
-  "anonymous": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 3
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "template": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 11
-    }
-  ],
-  "ng": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "zero": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 2
-    }
-  ],
-  "res": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 48
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 28
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 46
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 46
-    }
-  ],
-  "license": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "greater": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "product": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 17
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 18
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\users.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 19
-    }
-  ],
-  "buy": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "fire": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "string": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "sc": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 5
-    }
-  ],
-  "vote": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "cost": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 3
-    }
-  ],
-  "status": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 25
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 12
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 24
-    }
-  ],
-  "previous": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    }
-  ],
-  "little": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "auto": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 10
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 6
-    }
-  ],
-  "replace": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    }
-  ],
-  "source": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+      "sourceFile": "web/static/js/controller.js",
       "nbOccurence": 1
     }
   ],
   "put": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
+      "sourceFile": "web/static/js/controller.js",
       "nbOccurence": 1
     }
   ],
-  "splice": [
+  "negative": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "galaxy": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "test": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "custom": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "qty": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 25
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "generate": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "offset": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 7
-    }
-  ],
-  "place": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 2
-    }
-  ],
-  "scroll": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    }
-  ],
-  "next": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 4
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 14
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 3
-    }
-  ],
-  "suggestion": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 21
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "load": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 16
-    }
-  ],
-  "live": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 4
-    }
-  ],
-  "sb": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 3
-    }
-  ],
-  "description": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 12
-    }
-  ],
-  "item": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 25
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 14
-    }
-  ],
-  "manner": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "machine": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "timeout": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
-      "nbOccurence": 2
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 6
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "class": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 25
-    }
-  ],
-  "detail": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "trim": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 4
-    }
-  ],
-  "selector": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 13
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "update": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 5
-    }
-  ],
-  "right": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "empty": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "sentient": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "enter": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
-      "nbOccurence": 1
-    }
-  ],
-  "distance": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "calc": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 8
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 5
-    }
-  ],
-  "host": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
-      "nbOccurence": 5
-    },
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
-      "nbOccurence": 1
-    }
-  ],
-  "across": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 1
-    }
-  ],
-  "console": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\controller.js",
-      "nbOccurence": 51
-    }
-  ],
-  "responsive": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
-      "nbOccurence": 1
-    }
-  ],
-  "connection": [
-    {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+      "sourceFile": "cart/server.js",
       "nbOccurence": 1
     }
   ],
   "probe": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\mongo\\catalogue.js",
+      "sourceFile": "mongo/catalogue.js",
       "nbOccurence": 1
     }
   ],
-  "width": [
+  "time": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "space": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "unique": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "replace": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    }
+  ],
+  "change": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 6
+    }
+  ],
+  "medical": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "air": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "datum": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 25
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 171
+    }
+  ],
+  "splice": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "city": [
+    {
+      "sourceFile": "web/static/js/controller.js",
       "nbOccurence": 2
     }
   ],
-  "access": [
+  "call": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 1
-    },
+    }
+  ],
+  "registry": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "hash": [
+    {
+      "sourceFile": "web/static/js/controller.js",
       "nbOccurence": 1
-    },
+    }
+  ],
+  "top": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 18
+    }
+  ],
+  "thank": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "bring": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "git": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 1
     }
   ],
   "health": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\cart\\server.js",
+      "sourceFile": "cart/server.js",
       "nbOccurence": 1
     },
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\catalogue\\server.js",
+      "sourceFile": "catalogue/server.js",
       "nbOccurence": 1
     },
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\user\\server.js",
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "query": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 9
+    }
+  ],
+  "juggernaut": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "parent": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "bound": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "url": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 8
+    }
+  ],
+  "origin": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "tax": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 12
+    }
+  ],
+  "script": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "travel": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    }
+  ],
+  "window": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "set": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 7
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "probably": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "strict": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "express": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 4
+    }
+  ],
+  "optionally": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "security": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "etc": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "responsive": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "source": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "character": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "find": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "undefined": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "annotate": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "split": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "opacity": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "connection": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "key": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 16
+    }
+  ],
+  "equal": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "price": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 11
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "request": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "code": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "button": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "post": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "attribute": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "address": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "splash": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "field": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "object": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "mineral": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "otherwise": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "debug": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "compute": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "re": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "cat": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "slow": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "history": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 12
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 7
+    }
+  ],
+  "adapter": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "java": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "text": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 12
+    }
+  ],
+  "keyup": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 4
+    }
+  ],
+  "validate": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "extend": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "live": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 4
+    }
+  ],
+  "block": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "diplomatic": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "process": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "render": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "id": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 18
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 11
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 14
+    }
+  ],
+  "container": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "sc": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 5
+    }
+  ],
+  "redis": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    }
+  ],
+  "user": [
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 34
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 64
+    }
+  ],
+  "outer": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "listen": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "cyborg": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "append": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "el": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 21
+    }
+  ],
+  "observability": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "confirm": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "match": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "exp": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "supply": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "doe": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "send": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 27
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 12
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 30
+    }
+  ],
+  "index": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 1
+    }
+  ],
+  "controller": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 15
+    }
+  ],
+  "share": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "node": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "rewrite": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "robotic": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "update": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 5
+    }
+  ],
+  "module": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "clear": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 8
+    }
+  ],
+  "merge": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "export": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "tunnel": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "define": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "stat": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "pretty": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "level": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "search": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 17
+    }
+  ],
+  "down": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "child": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 4
+    }
+  ],
+  "detail": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "width": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "total": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 17
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 5
+    }
+  ],
+  "work": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "status": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 25
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 12
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 24
+    }
+  ],
+  "bite": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "bottom": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "protocol": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "use": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 7
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "format": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "height": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 11
+    }
+  ],
+  "body": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 20
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "detach": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "excellent": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "ready": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "password": [
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 7
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 16
+    }
+  ],
+  "system": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "hub": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "header": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "src": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "intelligence": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 3
+    }
+  ],
+  "log": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 19
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 11
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 25
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 51
+    }
+  ],
+  "add": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "distance": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "smartest": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "number": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "item": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 25
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 14
+    }
+  ],
+  "surgery": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "plain": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "extraterrestrial": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "exceptional": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    }
+  ],
+  "array": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "suggestion": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 21
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "country": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 8
+    }
+  ],
+  "retry": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "neutralization": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "exist": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "product": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 17
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 18
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 19
+    }
+  ],
+  "machine": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "harvest": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "rat": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 9
+    }
+  ],
+  "stock": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "auto": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 6
+    }
+  ],
+  "load": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 16
+    }
+  ],
+  "class": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 25
+    }
+  ],
+  "slice": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "spaceship": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "tag": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "anything": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "trace": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "timer": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "development": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "apply": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "none": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 8
+    }
+  ],
+  "error": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 21
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 20
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 30
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 25
+    }
+  ],
+  "content": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "enable": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "hide": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "assistant": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    }
+  ],
+  "fire": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "yet": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "complete": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "cache": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "look": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "run": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "us": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "mongo": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 14
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 15
+    }
+  ],
+  "result": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "fully": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    }
+  ],
+  "manner": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "push": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "may": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "harvester": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "scope": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 160
+    }
+  ],
+  "partner": [
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 2
+    }
+  ],
+  "access": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "vegetation": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "max": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 5
+    }
+  ],
+  "catalogue": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "location": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 17
+    }
+  ],
+  "success": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "input": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "application": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "trim": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "save": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 6
+    }
+  ],
+  "scr": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "test": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "allow": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "console": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 51
+    }
+  ],
+  "breath": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "insufficient": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "uniqueid": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "handy": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "click": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "feedback": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "escape": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "leave": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    }
+  ],
+  "off": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "sb": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "little": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "guru": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "available": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 12
+    }
+  ],
+  "element": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "go": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "view": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "hover": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "red": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "print": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "redirect": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "char": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 5
+    }
+  ],
+  "place": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "scroll": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    }
+  ],
+  "offset": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 7
+    }
+  ],
+  "floor": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "property": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "special": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "ng": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "fellow": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "err": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 45
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 4
+    }
+  ],
+  "random": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "loop": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "need": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "quantity": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "strategic": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "context": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "round": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "option": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 4
+    }
+  ],
+  "android": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "val": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 28
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 12
+    }
+  ],
+  "calc": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 5
+    }
+  ],
+  "message": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 19
+    }
+  ],
+  "already": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "rare": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "register": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "move": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "category": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 7
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 11
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 11
+    }
+  ],
+  "com": [
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "later": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "label": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "automatic": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "target": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "fresh": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "method": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 20
+    }
+  ],
+  "length": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "database": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 12
+    }
+  ],
+  "value": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 8
+    }
+  ],
+  "handler": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 19
+    }
+  ],
+  "vote": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "db": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 5
+    }
+  ],
+  "reach": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "subtotal": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    }
+  ],
+  "payment": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "factory": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "disable": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 10
+    }
+  ],
+  "check": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "mine": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "route": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 11
+    }
+  ],
+  "previous": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "parse": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "counter": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "pino": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "cont": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "next": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 14
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "fetch": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "buy": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "focus": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    }
+  ],
+  "less": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "rect": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "res": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 48
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 28
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 46
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 46
+    }
+  ],
+  "help": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "qty": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 25
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "resize": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 4
+    }
+  ],
+  "sibling": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "full": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "menu": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "timeout": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 6
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "last": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 9
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "fragment": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "cost": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "copyright": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "contain": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "howdy": [
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 1
+    }
+  ],
+  "span": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "high": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "string": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "custom": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "html": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "cart": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 72
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 50
+    }
+  ],
+  "old": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 6
+    }
+  ],
+  "active": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "pay": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "connect": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 13
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 15
+    }
+  ],
+  "far": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "ultimate": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "across": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "sel": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 5
+    }
+  ],
+  "login": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 6
+    }
+  ],
+  "power": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "keydown": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "miss": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "avg": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "artificial": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 3
+    }
+  ],
+  "lose": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "fast": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "na": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "current": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 39
+    }
+  ],
+  "int": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "confirmation": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "metric": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "host": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "one": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "email": [
+    {
+      "sourceFile": "mongo/users.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 9
+    }
+  ],
+  "template": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 11
+    }
+  ],
+  "prom": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    }
+  ],
+  "record": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "remove": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "page": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "order": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 10
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "new": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 4
+    }
+  ],
+  "inner": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "final": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "term": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 5
+    }
+  ],
+  "style": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 15
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "client": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "enter": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "parser": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "galaxy": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "destroy": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "environment": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "div": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "helper": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "insert": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "production": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "ship": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 15
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 20
+    }
+  ],
+  "not": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 12
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 11
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 18
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "empty": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "extreme": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "score": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "inc": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "event": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 24
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "control": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "versatile": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "hack": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "root": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "track": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "params": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 5
+    }
+  ],
+  "rate": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 3
+    }
+  ],
+  "create": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "meta": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "start": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 2
+    }
+  ],
+  "join": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 1
     }
   ],
   "min": [
     {
-      "sourceFile": "C:\\Users\\milan\\IdeaProjects\\reverse-engineering-text-retrieval\\TEMP\\robot-shop-master\\web\\static\\js\\auto-complete.js",
+      "sourceFile": "web/static/js/auto-complete.js",
       "nbOccurence": 5
+    }
+  ],
+  "generate": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "port": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 4
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 4
+    }
+  ],
+  "variant": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "blur": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 5
+    }
+  ],
+  "license": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "capability": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "collector": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "collection": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 8
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 16
+    }
+  ],
+  "planet": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "outside": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "angular": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 5
+    }
+  ],
+  "listener": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "math": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "select": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 14
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 9
+    }
+  ],
+  "robot": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 9
+    }
+  ],
+  "document": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 12
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "enforcer": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "incorrect": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "emulator": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    }
+  ],
+  "warn": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 5
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    }
+  ],
+  "protection": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "logger": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "part": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 3
+    }
+  ],
+  "description": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 12
+    }
+  ],
+  "list": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 17
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "bedside": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "display": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 9
+    }
+  ],
+  "sentient": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "anonymous": [
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 3
+    },
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "will": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 2
+    }
+  ],
+  "hit": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "right": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "attach": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "zero": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 2
+    }
+  ],
+  "no": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "user/server.js",
+      "nbOccurence": 1
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 1
+    }
+  ],
+  "provider": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 6
+    }
+  ],
+  "reg": [
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "normal": [
+    {
+      "sourceFile": "web/static/js/controller.js",
+      "nbOccurence": 1
+    }
+  ],
+  "human": [
+    {
+      "sourceFile": "mongo/catalogue.js",
+      "nbOccurence": 1
+    }
+  ],
+  "distinct": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 1
+    }
+  ],
+  "delay": [
+    {
+      "sourceFile": "catalogue/server.js",
+      "nbOccurence": 2
+    },
+    {
+      "sourceFile": "web/static/js/auto-complete.js",
+      "nbOccurence": 2
+    }
+  ],
+  "greater": [
+    {
+      "sourceFile": "cart/server.js",
+      "nbOccurence": 1
     }
   ]
 }

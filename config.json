@@ -5,9 +5,9 @@
         "overleaf-main"
     ],
     "PROJECTS_TO_GENERATE": [
-        "cinema-microservice-master"
+        "robot-shop-master"
     ],
-    "PROJECT_TO_ANALYZE": "cinema-microservice-master",
+    "PROJECT_TO_ANALYZE": "robot-shop-master",
     "KEEP_DB_CONCEPTS_ONLY_FROM_HEURISTICS": true,
     "FOCUS_ON_HEURISTIC_CONCEPTS": true
 }

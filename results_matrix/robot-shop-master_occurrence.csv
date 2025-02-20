@@ -2,10 +2,9 @@ Category/File,access,allow,content,control,order,origin,product,user
 DB Files,3,7,2,4,10,6,41,39
 Non-DB Files,0,0,1,0,4,0,19,64
 
-db|cart/server.js,1,3,2,1,0,2,17,0
-db|mongo/users.js,0,0,0,0,0,0,1,5
-db|catalogue/server.js,1,2,0,1,0,2,18,0
-db|user/server.js,1,2,0,1,10,2,0,34
 db|mongo/catalogue.js,0,0,0,1,0,0,5,0
+db|cart/server.js,1,3,2,1,0,2,17,0
+db|catalogue/server.js,1,2,0,1,0,2,18,0
+db|mongo/users.js,0,0,0,0,0,0,1,5
+db|user/server.js,1,2,0,1,10,2,0,34
 web/static/js/controller.js,0,0,1,0,4,0,19,64
-web/static/js/auto-complete.js,0,0,0,0,0,0,0,0

@@ -1,115 +1,115 @@
 {
   "timing": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L46C5-L46C39"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L36C5-L36C39"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L39C5-L39C39"
+      "sourceFile": "user/server.js"
     }
   ],
   "allow": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L46C5-L46C39"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L36C5-L36C39"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L39C5-L39C39"
+      "sourceFile": "user/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+      "sourceFile": "user/server.js"
     }
   ],
   "origin": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L46C5-L46C39"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L36C5-L36C39"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L39C5-L39C39"
+      "sourceFile": "user/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+      "sourceFile": "user/server.js"
     }
   ],
   "access": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+      "sourceFile": "user/server.js"
     }
   ],
   "control": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L47C5-L47C47"
+      "sourceFile": "cart/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L37C5-L37C47"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/user/server.js#L40C5-L40C47"
+      "sourceFile": "user/server.js"
     }
   ],
   "content": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L93C17-L93C59"
+      "sourceFile": "cart/server.js"
     }
   ],
   "type": [
     {
-      "sourceFile": "robot-shop-master/cart/server.js#L93C17-L93C59"
+      "sourceFile": "cart/server.js"
     }
   ],
   "product": [
     {
-      "sourceFile": "robot-shop-master/catalogue/server.js#L163C30-L163C54"
+      "sourceFile": "catalogue/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/mongo/catalogue.js#L5C1-L17C2"
+      "sourceFile": "mongo/catalogue.js"
     },
     {
-      "sourceFile": "robot-shop-master/mongo/catalogue.js#L20C1-L23C2"
+      "sourceFile": "mongo/catalogue.js"
     },
     {
-      "sourceFile": "robot-shop-master/mongo/catalogue.js#L26C1-L29C1"
+      "sourceFile": "mongo/catalogue.js"
     }
   ],
   "user": [
     {
-      "sourceFile": "robot-shop-master/user/server.js#L278C35-L278C56"
+      "sourceFile": "user/server.js"
     },
     {
-      "sourceFile": "robot-shop-master/mongo/users.js#L5C1-L9C2"
+      "sourceFile": "mongo/users.js"
     },
     {
-      "sourceFile": "robot-shop-master/mongo/users.js#L12C1-L15C1"
+      "sourceFile": "mongo/users.js"
     }
   ],
   "order": [
     {
-      "sourceFile": "robot-shop-master/user/server.js#L279C36-L279C58"
+      "sourceFile": "user/server.js"
     }
   ]
 }

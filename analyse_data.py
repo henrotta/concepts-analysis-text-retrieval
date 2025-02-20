@@ -15,18 +15,6 @@ with open("config.json", "r", encoding="utf-8") as file:
     CONFIG = json.load(file)
 
 
-def normalize_path(path: str) -> str:
-    """
-    Normalizes a file path by:
-    1. Replacing backslashes with slashes.
-    2. Removing anything after '#' (inclusive).
-    3. Keeping only the portion after the project root.
-    """
-    path = path.replace('\\', '/').split('#')[0]
-    match = re.search(re.escape(CONFIG["PROJECT_TO_ANALYZE"]) + r'/(.*)', path)
-    return match.group(1) if match else path
-
-
 def load_json_files() -> tuple:
     """Loads heuristic and text retrieval JSON files for the selected project."""
     with open(f'./concepts_from_heuristics/{CONFIG["PROJECT_TO_ANALYZE"]}.json', 'r') as file1, \
@@ -44,10 +32,10 @@ def generate_comparison_results(json1, json2):
 
     differences = {
         key: {
-            'only_in_file1': list(set(map(normalize_path, getArrayOfSourceFile(json1, key))) - set(map(normalize_path, getArrayOfSourceFile(json2, key)))),
-            'only_in_file2': list(set(map(normalize_path, getArrayOfSourceFile(json2, key))) - set(map(normalize_path, getArrayOfSourceFile(json1, key))))
+            'only_in_file1': list(set(getArrayOfSourceFile(json1, key)) - set(getArrayOfSourceFile(json2, key))),
+            'only_in_file2': list(set(getArrayOfSourceFile(json2, key)) - set(getArrayOfSourceFile(json1, key)))
         }
-        for key in common_keys if set(map(normalize_path, getArrayOfSourceFile(json1, key))) != set(map(normalize_path, getArrayOfSourceFile(json2, key)))
+        for key in common_keys if set(getArrayOfSourceFile(json1, key)) != set(getArrayOfSourceFile(json2, key))
     }
 
     return common_keys, unique_to_file1, unique_to_file2, differences
@@ -103,18 +91,20 @@ def generate_presence_matrix(json1, json2):
     # Build the file → concept mapping
     concept_mapping = {}
     for file in all_files:
-        normalized_file = normalize_path(file)
-        concept_mapping.setdefault(normalized_file, set()).update(
+        concept_mapping.setdefault(file, set()).update(
             {key for key in keys_file1 if file in getArrayOfSourceFile(json1, key)},
             {key for key in keys_file2 if file in getArrayOfSourceFile(json2, key)}
         )
 
     # Determine the concepts to include in the matrix
-    all_concepts = sorted(keys_file1 if CONFIG["FOCUS_ON_HEURISTIC_CONCEPTS"] else keys_file1 | keys_file2)
+    if CONFIG["FOCUS_ON_HEURISTIC_CONCEPTS"]:
+        all_concepts = sorted([key for key in json2.keys() if key in keys_file1])
+    else:
+        all_concepts = keys_file1 | keys_file2
 
-    # Normalize files from json1 to identify database-related files
-    files_of_json1 = {normalize_path(file) for key in keys_file1 for file in getArrayOfSourceFile(json1, key)}
-    filename = f"./results_matrix/{CONFIG["PROJECT_TO_ANALYZE"]}.csv"
+
+    files_of_json1 = {file for key in keys_file1 for file in getArrayOfSourceFile(json1, key)}
+    filename = f"./results_matrix/{CONFIG["PROJECT_TO_ANALYZE"]}_presence.csv"
 
     # Generate the CSV file
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
@@ -124,9 +114,10 @@ def generate_presence_matrix(json1, json2):
         for file_name, concepts in concept_mapping.items():
             is_db_file = file_name in files_of_json1
             row = [("db|" if is_db_file else "") + file_name, is_db_file, not is_db_file]
-
-            row.extend(concept in concepts for concept in all_concepts)
-            writer.writerow(row)
+            rowMapping = [concept in concepts for concept in all_concepts]
+            if any(rowMapping):
+                row.extend(concept in concepts for concept in all_concepts)
+                writer.writerow(row)
 
 
 def generate_occurrence_matrix(json1, json2):
@@ -135,12 +126,17 @@ def generate_occurrence_matrix(json1, json2):
     1. Aggregated occurrences by file category (DB vs Non-DB).
     2. Individual occurrences per file.
     """
-    # Identify DB files by normalizing paths
+
+    # Make sure json1 contains only DB concepts
+    if not CONFIG["KEEP_DB_CONCEPTS_ONLY_FROM_HEURISTICS"]:
+        raise Exception("The parameter 'KEEP_DB_CONCEPTS_ONLY_FROM_HEURISTICS' must be set to True to ensure that json1 contains only DB concepts before generating the occurrence matrix.")
+
+    # Identify DB files
     keys_file1 = set(json1.keys())
-    files_of_json1 = {normalize_path(file) for key in keys_file1 for file in getArrayOfSourceFile(json1, key)}
+    files_of_json1 = {file for key in keys_file1 for file in getArrayOfSourceFile(json1, key)}
 
     # Retrieve all unique files and concepts
-    all_files = {normalize_path(entry["sourceFile"]) for concept in json2.values() for entry in concept}
+    all_files = {entry["sourceFile"] for concept in json2.values() for entry in concept}
     all_concepts = sorted([key for key in json2.keys() if key in keys_file1])
 
     # Initialize structures for the matrix
@@ -152,14 +148,14 @@ def generate_occurrence_matrix(json1, json2):
     for concept, entries in json2.items():
         if concept in keys_file1:
             for entry in entries:
-                normalized_file = normalize_path(entry["sourceFile"])
-                category = "DB Files" if normalized_file in files_of_json1 else "Non-DB Files"
+                file = entry["sourceFile"]
+                category = "DB Files" if file in files_of_json1 else "Non-DB Files"
 
                 # Add to categories
                 categories[category][concept] += entry["nbOccurence"]
 
                 # Add to individual file data
-                file_concept_matrix[normalized_file][concept] = entry["nbOccurence"]
+                file_concept_matrix[file][concept] = entry["nbOccurence"]
 
     # Generate the CSV file
     output_filename = f"./results_matrix/{CONFIG['PROJECT_TO_ANALYZE']}_occurrence.csv"
@@ -171,7 +167,9 @@ def generate_occurrence_matrix(json1, json2):
 
         # Write category data
         for category, concept_counts in categories.items():
-            writer.writerow([category] + [concept_counts[concept] for concept in all_concepts])
+            values = [concept_counts[concept] for concept in all_concepts]
+            if any(value > 0 for value in values):
+                writer.writerow([category] + values)
 
         # Visual separation between categories and individual files
         writer.writerow([])
@@ -179,12 +177,14 @@ def generate_occurrence_matrix(json1, json2):
         # Write individual file data
         sorted_files = sorted(file_concept_matrix.items(), key=lambda x: x[0] not in files_of_json1)
         for file_name, concept_counts in sorted_files:
-            writer.writerow([("db|" if file_name in files_of_json1 else "") + file_name] + [concept_counts[concept] for concept in all_concepts])
+            values = [concept_counts[concept] for concept in all_concepts]
+            if any(value > 0 for value in values):
+                writer.writerow([("db|" if file_name in files_of_json1 else "") + file_name] + values)
 
 
 def generate_FCA():
     """Generates a Formal Concept Analysis (FCA) lattice from the concept matrix."""
-    context = FormalContext.from_pandas(pd.read_csv(f"./results_matrix/{CONFIG["PROJECT_TO_ANALYZE"]}.csv", index_col=0))
+    context = FormalContext.from_pandas(pd.read_csv(f"./results_matrix/{CONFIG["PROJECT_TO_ANALYZE"]}_presence.csv", index_col=0))
     lattice = ConceptLattice.from_context(context)
 
     color_categories = ('is_db_file', 'is_not_db_file')
@@ -199,7 +199,7 @@ def generate_FCA():
 
 
     def node_label(c_i, L, color_categories=color_categories):
-        lbl = LineVizNx.concept_lattice_label_func(c_i, L, flg_new_extent_count_prefix=False, flg_new_intent_count_prefix=False)
+        lbl = LineVizNx.concept_lattice_label_func(c_i, L, flg_new_extent_count_prefix=False, flg_new_intent_count_prefix=False, max_new_intent_count=10, max_new_extent_count=10)
         for category in color_categories:
             lbl = lbl.replace(category, '')
         return lbl.replace(',', '')
@@ -210,6 +210,7 @@ def generate_FCA():
         frozenset({color_categories[0]}): 'navy',
         frozenset({color_categories[1]}): 'orange'
     }
+
 
     node_colors = [color_map.get(frozenset(c.intent) & frozenset(color_categories), viz.node_color) for c in lattice_no_trivial]
     node_color_legend = {
@@ -233,8 +234,8 @@ def main():
     print_comparison_results(common_keys, unique_to_file1, unique_to_file2, differences)
     generate_csv_report(common_keys, unique_to_file1, unique_to_file2, differences)
     
-    # generate_presence_matrix(json1, json2)
-    # generate_FCA()
+    generate_presence_matrix(json1, json2)
+    generate_FCA()
     
     generate_occurrence_matrix(json1, json2)
 

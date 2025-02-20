@@ -5,7 +5,7 @@ content,True,True,None,web/static/js/controller.js
 control,True,True,None,mongo/catalogue.js
 order,True,True,None,web/static/js/controller.js
 origin,True,True,None,None
-product,True,True,None,cart/server.js;mongo/users.js;web/static/js/controller.js
+product,True,True,None,web/static/js/controller.js;cart/server.js;mongo/users.js
 user,True,True,None,web/static/js/controller.js
 timing,True,False,None,None
 type,True,False,None,None

@@ -1,0 +1,7 @@
+File,is_db_file,is_not_db_file,access,allow,content,control,order,origin,product,user
+db|user/server.js,True,False,True,True,False,True,True,True,False,True
+web/static/js/controller.js,False,True,False,False,True,False,True,False,True,True
+db|mongo/catalogue.js,True,False,False,False,False,True,False,False,True,False
+db|catalogue/server.js,True,False,True,True,False,True,False,True,True,False
+db|cart/server.js,True,False,True,True,True,True,False,True,True,False
+db|mongo/users.js,True,False,False,False,False,False,False,False,True,True

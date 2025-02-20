@@ -1,8 +1,0 @@
-File,is_db_file,is_not_db_file,access,allow,content,control,order,origin,product,timing,type,user
-db|user/server.js,True,False,True,True,False,True,True,True,False,True,False,True
-db|mongo/users.js,True,False,False,False,False,False,False,False,True,False,False,True
-db|cart/server.js,True,False,True,True,True,True,False,True,True,True,True,False
-db|mongo/catalogue.js,True,False,False,False,False,True,False,False,True,False,False,False
-db|catalogue/server.js,True,False,True,True,False,True,False,True,True,True,False,False
-web/static/js/auto-complete.js,False,True,False,False,False,False,False,False,False,False,False,False
-web/static/js/controller.js,False,True,False,False,True,False,True,False,True,False,False,True
